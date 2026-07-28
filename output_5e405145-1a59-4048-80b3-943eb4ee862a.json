@@ -1,0 +1,1061 @@
+{
+  "exam_name": "9a6fb79c-b675-4cc5-b308-511499f896e5",
+  "difficulty_level": "",
+  "start_date": "",
+  "end_date": "",
+  "exam_type": "WEEKLY_TEST",
+  "sections": [
+    {
+      "section_name": "SECTION – A",
+      "total_question": 10,
+      "total_marks": 25,
+      "attempts_required": 10,
+      "priority": 1,
+      "questions": [
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "1",
+          "chapter_name": "Chapter 4",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "If $-3 \\leq 2x - 1 < 5$, and $x \\in \\mathbb{Z}$, the solution set is:",
+            "options": [
+              {
+                "option_prefix": "(a)",
+                "option_text": "$-1, 0, 1, 2$",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(b)",
+                "option_text": "$-1, 0, 1, 2, 3$",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(c)",
+                "option_text": "$\\{0 \\cdot 1 \\cdot 2\\}$",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(d)",
+                "option_text": "$-2, -1, 0, 1, 2$",
+                "is_correct": false
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "A",
+            "explanation": "First, solve the compound inequality $-3 \\leq 2x - 1 < 5$ to find the range of $x$. The solution set for $x \\in \\mathbb{Z}$ is $\\{-1, 0, 1, 2\\}$.",
+            "answer_image": [],
+            "answer_url": ""
+          },
+          "chapter_id": "60f09ecc-76b5-4cd4-9a7e-6404964db53f"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "2",
+          "chapter_name": "Chapter 4",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "The roots of the quadratic equation $4x^2 - 12x + 9 = 0$ are:",
+            "options": [
+              {
+                "option_prefix": "(a)",
+                "option_text": "Real and distinct",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(b)",
+                "option_text": "Real and equal",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(c)",
+                "option_text": "Not real",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(d)",
+                "option_text": "Cannot be determined",
+                "is_correct": false
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "B",
+            "explanation": "The discriminant of the quadratic equation $4x^2 - 12x + 9 = 0$ is $D = (-12)^2 - 4 \\cdot 4 \\cdot 9 = 0$. Since $D = 0$, the roots are real and equal.",
+            "answer_image": [],
+            "answer_url": ""
+          },
+          "chapter_id": "60f09ecc-76b5-4cd4-9a7e-6404964db53f"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Medium",
+          "question_number": "3",
+          "chapter_name": "Chapter 8",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "The simplified form of $\\frac{\\sin A - 2\\sin^2 A}{2\\cos^2 A - \\cos A}$ is:",
+            "options": [
+              {
+                "option_prefix": "(a)",
+                "option_text": "$\\sin A$",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(b)",
+                "option_text": "$\\tan A$",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(c)",
+                "option_text": "$\\sec A$",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(d)",
+                "option_text": "$\\cot A$",
+                "is_correct": false
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "B",
+            "explanation": "Simplify the given expression by factoring the numerator and denominator. The simplified form is $\\tan A$.",
+            "answer_image": [],
+            "answer_url": ""
+          },
+          "chapter_id": "985e005f-8531-47aa-a64b-bf074fa37549"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Medium",
+          "question_number": "4",
+          "chapter_name": "Chapter 9",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "A vertical pole and a vertical tower are on the same level ground. From the top of the pole the angle of elevation of the top of the tower is $60^\\circ$ and the angle of depression of the foot of the tower is $30^\\circ$. Find the height of the tower if the height of the pole is $20^\\circ$ m:",
+            "options": [
+              {
+                "option_prefix": "(a)",
+                "option_text": "60",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(b)",
+                "option_text": "100",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(c)",
+                "option_text": "40",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(d)",
+                "option_text": "80",
+                "is_correct": false
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "A",
+            "explanation": "Using trigonometric ratios, the height of the tower is calculated as $60$ m. The pole height is $20$ m, and the angles provide the necessary ratios.",
+            "answer_image": [],
+            "answer_url": ""
+          },
+          "chapter_id": "240dc21a-573b-471a-8dd4-5d21f1cb2ef6"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Medium",
+          "question_number": "5",
+          "chapter_name": "Chapter 9",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "The angle of elevation of the top of a tower from a point on the ground, which is $30^\\circ$ m away from the foot of the tower, is $30^\\circ$. The height of the tower is:",
+            "options": [
+              {
+                "option_prefix": "(a)",
+                "option_text": "$10\\sqrt{3}m$",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(b)",
+                "option_text": "$15\\sqrt{3}m$",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(c)",
+                "option_text": "$30\\sqrt{3}m$",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(d)",
+                "option_text": "$10^m$",
+                "is_correct": false
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "A",
+            "explanation": "Using the tangent of the angle of elevation, the height of the tower is $10\\sqrt{3}$ m. The distance from the point to the tower is $30$ m.",
+            "answer_image": [],
+            "answer_url": ""
+          },
+          "chapter_id": "240dc21a-573b-471a-8dd4-5d21f1cb2ef6"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "6",
+          "chapter_name": "Chapter 4",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "If one root of the quadratic equation $2x^2 + kx - 6 = 0$ is 2, the value of $k$ is:",
+            "options": [
+              {
+                "option_prefix": "(a)",
+                "option_text": "1",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(b)",
+                "option_text": "-1",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(c)",
+                "option_text": "2",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(d)",
+                "option_text": "-2",
+                "is_correct": false
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "B",
+            "explanation": "Substitute $x = 2$ into the quadratic equation $2x^2 + kx - 6 = 0$ to find $k$. The value of $k$ is $-1$.",
+            "answer_image": [],
+            "answer_url": ""
+          },
+          "chapter_id": "60f09ecc-76b5-4cd4-9a7e-6404964db53f"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "7",
+          "chapter_name": "Chapter 4",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "Solve for $x \\in \\mathbb{R}$ (Real numbers): $5x - 3 \\leq 5 + 3x$ and $2x + 5 > 13$",
+            "options": [
+              {
+                "option_prefix": "(a)",
+                "option_text": "$x > 4$",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(b)",
+                "option_text": "$x = 4$",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(c)",
+                "option_text": "$x \\geq 4$",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(d)",
+                "option_text": "$\\emptyset$",
+                "is_correct": false
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "A",
+            "explanation": "Solve the inequalities $5x - 3 \\leq 5 + 3x$ and $2x + 5 > 13$ separately. The solution is $x > 4$.",
+            "answer_image": [],
+            "answer_url": ""
+          },
+          "chapter_id": "60f09ecc-76b5-4cd4-9a7e-6404964db53f"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Medium",
+          "question_number": "8",
+          "chapter_name": "Chapter 8",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "The value of $(1 + \\cot A - \\csc A)(1 + \\tan A + \\sec A)$ is:",
+            "options": [
+              {
+                "option_prefix": "(a)",
+                "option_text": "2",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(b)",
+                "option_text": "$1/2$",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(c)",
+                "option_text": "0",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(d)",
+                "option_text": "1",
+                "is_correct": false
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "A",
+            "explanation": "Simplify the expression using trigonometric identities. The value of the expression is $2$.",
+            "answer_image": [],
+            "answer_url": ""
+          },
+          "chapter_id": "985e005f-8531-47aa-a64b-bf074fa37549"
+        },
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "9",
+          "chapter_name": "Chapter 4",
+          "question_image": [],
+          "marks": 8,
+          "question_data": {
+            "question_text": "Question 9",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(i)",
+                "question_text": "Solve the linear inequation and write the solution set: $2x - 3 < x + 2 \\leq 3x + 5$, where $x \\in \\mathbb{R}$.",
+                "marks": 2,
+                "question_type": "SA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(ii)",
+                "question_text": "Find the value of $p$ for which the quadratic equation $(p + 1)x^2 - 6(p + 1)x + 3(p + 9) = 0$ has real and equal roots.",
+                "marks": 3,
+                "question_type": "SA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(iii)",
+                "question_text": "Prove the following trigonometric identity: $\\frac{\\tan \\theta}{1 - \\cot \\theta} + \\frac{\\cot \\theta}{1 - \\tan \\theta} = 1 + \\sec \\theta \\csc \\theta$.",
+                "marks": 3,
+                "question_type": "SA",
+                "options": null
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "",
+            "additional_answers": [
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(i)",
+                "answer_text": "Solve the compound inequality $2x - 3 < x + 2 \\leq 3x + 5$ step-by-step:\n1. Split the inequality into two parts: $2x - 3 < x + 2$ and $x + 2 \\leq 3x + 5$.\n2. Solve $2x - 3 < x + 2$: $x < 5$.\n3. Solve $x + 2 \\leq 3x + 5$: $-3 \\leq 2x$ or $x \\geq -1.5$.\n4. Combine the results: $-1.5 \\leq x < 5$. The solution set is $\\{x \\in \\mathbb{R} \\mid -1.5 \\leq x < 5\\}$.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct splitting and solving of the first inequality",
+                    "marks": 0.5
+                  },
+                  {
+                    "scheme": "Correct splitting and solving of the second inequality",
+                    "marks": 0.5
+                  },
+                  {
+                    "scheme": "Correct combination of results and final solution set",
+                    "marks": 1.0
+                  }
+                ],
+                "answer_image": [],
+                "answer_url": ""
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(ii)",
+                "answer_text": "For the quadratic equation $(p + 1)x^2 - 6(p + 1)x + 3(p + 9) = 0$ to have real and equal roots, the discriminant must be zero:\n1. Discriminant $D = [ -6(p + 1) ]^2 - 4 \\cdot (p + 1) \\cdot 3(p + 9) = 0$.\n2. Simplify: $36(p + 1)^2 - 12(p + 1)(p + 9) = 0$.\n3. Factor out $12(p + 1)$: $12(p + 1)[3(p + 1) - (p + 9)] = 0$.\n4. Solve: $3(p + 1) - (p + 9) = 0$ or $p + 1 = 0$.\n5. $3p + 3 - p - 9 = 0$ or $p = -1$.\n6. $2p - 6 = 0$ or $p = -1$.\n7. $p = 3$ or $p = -1$.\n8. Since $p = -1$ makes the equation linear, discard it. Thus, $p = 3$.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct setup of discriminant condition",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Correct simplification and factoring",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Correct solution and elimination of invalid value",
+                    "marks": 1.0
+                  }
+                ],
+                "answer_image": [],
+                "answer_url": ""
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(iii)",
+                "answer_text": "Prove the identity $\\frac{\\tan \\theta}{1 - \\cot \\theta} + \\frac{\\cot \\theta}{1 - \\tan \\theta} = 1 + \\sec \\theta \\csc \\theta$:\n1. Express $\\tan \\theta$ and $\\cot \\theta$ in terms of $\\sin \\theta$ and $\\cos \\theta$:\n   $$\\frac{\\frac{\\sin \\theta}{\\cos \\theta}}{1 - \\frac{\\cos \\theta}{\\sin \\theta}} + \\frac{\\frac{\\cos \\theta}{\\sin \\theta}}{1 - \\frac{\\sin \\theta}{\\cos \\theta}}$$.\n2. Simplify denominators:\n   $$\\frac{\\frac{\\sin \\theta}{\\cos \\theta}}{\\frac{\\sin \\theta - \\cos \\theta}{\\sin \\theta}} + \\frac{\\frac{\\cos \\theta}{\\sin \\theta}}{\\frac{\\cos \\theta - \\sin \\theta}{\\cos \\theta}}$$.\n3. Simplify each term:\n   $$\\frac{\\sin^2 \\theta}{\\cos \\theta (\\sin \\theta - \\cos \\theta)} + \\frac{\\cos^2 \\theta}{\\sin \\theta (\\cos \\theta - \\sin \\theta)}$$. \n4. Combine the terms:\n   $$\\frac{\\sin^2 \\theta}{\\cos \\theta (\\sin \\theta - \\cos \\theta)} - \\frac{\\cos^2 \\theta}{\\sin \\theta (\\sin \\theta - \\cos \\theta)}$$. \n5. Factor out the common denominator:\n   $$\\frac{\\sin^3 \\theta - \\cos^3 \\theta}{\\cos \\theta \\sin \\theta (\\sin \\theta - \\cos \\theta)}$$. \n6. Use the identity $a^3 - b^3 = (a - b)(a^2 + ab + b^2)$:\n   $$\\frac{(\\sin \\theta - \\cos \\theta)(\\sin^2 \\theta + \\sin \\theta \\cos \\theta + \\cos^2 \\theta)}{\\cos \\theta \\sin \\theta (\\sin \\theta - \\cos \\theta)}$$. \n7. Simplify using $\\sin^2 \\theta + \\cos^2 \\theta = 1$:\n   $$\\frac{1 + \\sin \\theta \\cos \\theta}{\\cos \\theta \\sin \\theta}$$. \n8. Split the fraction:\n   $$\\frac{1}{\\cos \\theta \\sin \\theta} + 1 = \\sec \\theta \\csc \\theta + 1$$.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct expression of $\\tan \\theta$ and $\\cot \\theta$ in terms of $\\sin \\theta$ and $\\cos \\theta$",
+                    "marks": 0.5
+                  },
+                  {
+                    "scheme": "Correct simplification of denominators",
+                    "marks": 0.5
+                  },
+                  {
+                    "scheme": "Correct combination and factoring of terms",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Correct use of trigonometric identities and final simplification",
+                    "marks": 1.0
+                  }
+                ],
+                "answer_image": [],
+                "answer_url": ""
+              }
+            ],
+            "answer_image": [],
+            "answer_url": ""
+          },
+          "chapter_id": "60f09ecc-76b5-4cd4-9a7e-6404964db53f"
+        },
+        {
+          "question_type": "LA",
+          "difficulty_level": "Hard",
+          "question_number": "10",
+          "chapter_name": "Chapter 8",
+          "question_image": [],
+          "marks": 9,
+          "question_data": {
+            "question_text": "Question 10",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(i)",
+                "question_text": "Prove the following identity: $\\frac{\\sin A}{1 - \\cos A} - \\frac{\\sin A}{1 + \\cos A} = 2 \\cot A$.",
+                "marks": 2,
+                "question_type": "SA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(ii)",
+                "question_text": "Solve for $x$: $\\frac{x}{x+1} + \\frac{x+1}{x} = \\frac{34}{15}$.",
+                "marks": 2,
+                "question_type": "SA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(iii)",
+                "question_text": "A man standing on the deck of a ship, which is 10m above the water level, observes the angle of elevation of the top of a hill as $60^\\circ$ and the angle of depression of the base of the hill as $30^\\circ$. Calculate the distance of the hill from the ship and the total height of the hill.",
+                "marks": 5,
+                "question_type": "LA",
+                "options": null
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "",
+            "additional_answers": [
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(i)",
+                "answer_text": "Prove the identity $\\frac{\\sin A}{1 - \\cos A} - \\frac{\\sin A}{1 + \\cos A} = 2 \\cot A$:\n1. Combine the fractions on the left-hand side:\n   $$\\frac{\\sin A (1 + \\cos A) - \\sin A (1 - \\cos A)}{(1 - \\cos A)(1 + \\cos A)}$$. \n2. Simplify the numerator:\n   $$\\sin A + \\sin A \\cos A - \\sin A + \\sin A \\cos A = 2 \\sin A \\cos A$$. \n3. Simplify the denominator using $1 - \\cos^2 A = \\sin^2 A$:\n   $$\\frac{2 \\sin A \\cos A}{\\sin^2 A}$$. \n4. Simplify the fraction:\n   $$\\frac{2 \\cos A}{\\sin A} = 2 \\cot A$$.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct combination of fractions",
+                    "marks": 0.5
+                  },
+                  {
+                    "scheme": "Correct simplification of numerator and denominator",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Correct final simplification to $2 \\cot A$",
+                    "marks": 0.5
+                  }
+                ],
+                "answer_image": [],
+                "answer_url": ""
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(ii)",
+                "answer_text": "Solve for $x$: $\\frac{x}{x+1} + \\frac{x+1}{x} = \\frac{34}{15}$:\n1. Find a common denominator for the left-hand side:\n   $$\\frac{x^2 + (x + 1)^2}{x(x + 1)} = \\frac{34}{15}$$. \n2. Expand and simplify the numerator:\n   $$\\frac{x^2 + x^2 + 2x + 1}{x^2 + x} = \\frac{34}{15}$$. \n3. Simplify:\n   $$\\frac{2x^2 + 2x + 1}{x^2 + x} = \\frac{34}{15}$$. \n4. Cross-multiply:\n   $$15(2x^2 + 2x + 1) = 34(x^2 + x)$$. \n5. Expand and simplify:\n   $$30x^2 + 30x + 15 = 34x^2 + 34x$$. \n6. Bring all terms to one side:\n   $$4x^2 + 4x - 15 = 0$$. \n7. Solve the quadratic equation using the quadratic formula:\n   $$x = \\frac{-4 \\pm \\sqrt{16 + 240}}{8} = \\frac{-4 \\pm \\sqrt{256}}{8} = \\frac{-4 \\pm 16}{8}$$. \n8. Solutions:\n   $$x = \\frac{12}{8} = \\frac{3}{2}$$ or $$x = \\frac{-20}{8} = -\\frac{5}{2}$$.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct combination of fractions and simplification",
+                    "marks": 0.5
+                  },
+                  {
+                    "scheme": "Correct cross-multiplication and simplification",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Correct solution of the quadratic equation",
+                    "marks": 0.5
+                  }
+                ],
+                "answer_image": [],
+                "answer_url": ""
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(iii)",
+                "answer_text": "Calculate the distance of the hill from the ship and the total height of the hill:\n1. Let $AB$ be the height of the ship's deck above water ($10$ m). Let $CD$ be the total height of the hill, and $BC$ be the distance of the hill from the ship.\n2. From point $A$, the angle of elevation to the top of the hill $D$ is $60^\\circ$, and the angle of depression to the base of the hill $C$ is $30^\\circ$.\n3. In $\\triangle ABC$, $\\tan 30^\\circ = \\frac{AB}{BC} = \\frac{10}{BC}$.\n4. Solve for $BC$: $BC = \\frac{10}{\\tan 30^\\circ} = 10\\sqrt{3}$ m.\n5. In $\\triangle ABD$, $\\tan 60^\\circ = \\frac{BD}{AB} = \\frac{CD - AB}{AB}$.\n6. Substitute $AB = 10$ m: $\\sqrt{3} = \\frac{CD - 10}{10}$.\n7. Solve for $CD$: $CD = 10\\sqrt{3} + 10 = 10(\\sqrt{3} + 1)$ m.\n8. Thus, the distance of the hill from the ship is $10\\sqrt{3}$ m, and the total height of the hill is $10(\\sqrt{3} + 1)$ m.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct setup of trigonometric ratios for $\\triangle ABC$",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Correct calculation of distance $BC$",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Correct setup of trigonometric ratios for $\\triangle ABD$",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Correct calculation of total height $CD$",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Final answers with units",
+                    "marks": 1.0
+                  }
+                ],
+                "answer_image": [],
+                "answer_url": ""
+              }
+            ],
+            "answer_image": [],
+            "answer_url": ""
+          },
+          "chapter_id": "985e005f-8531-47aa-a64b-bf074fa37549"
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION – B",
+      "total_question": 6,
+      "total_marks": 30,
+      "attempts_required": 6,
+      "priority": 2,
+      "questions": [
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "11",
+          "chapter_name": "Chapter 4",
+          "question_image": [],
+          "marks": 5,
+          "question_data": {
+            "question_text": "",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(i)",
+                "question_text": "Solve the following inequation and represent the solution set on the number line :\n\n$$4x - 19 < \\frac{3x}{5} - 2 \\leq \\frac{-2}{5} + x, x \\in \\mathbb{R}$$",
+                "marks": 2,
+                "question_type": "SA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(ii)",
+                "question_text": "Prove the following identity: $$\\frac{\\sin \\theta - \\cos \\theta + 1}{\\sin \\theta + \\cos \\theta - 1} = \\frac{1}{\\sec \\theta - \\tan \\theta}$$",
+                "marks": 3,
+                "question_type": "SA",
+                "options": null
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "",
+            "additional_answers": [
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(i)",
+                "answer_text": "Let us solve the inequation step-by-step:\n\n1. The given inequation is:\n$$4x - 19 < \\frac{3x}{5} - 2 \\leq \\frac{-2}{5} + x$$\n\n2. Split the compound inequation into two parts:\n   - Part 1: $$4x - 19 < \\frac{3x}{5} - 2$$\n   - Part 2: $$\\frac{3x}{5} - 2 \\leq \\frac{-2}{5} + x$$\n\n3. Solve Part 1:\n   $$4x - 19 < \\frac{3x}{5} - 2$$\n   Multiply both sides by 5 to eliminate the denominator:\n   $$20x - 95 < 3x - 10$$\n   Bring all terms to one side:\n   $$20x - 3x < 95 - 10$$\n   $$17x < 85$$\n   $$x < 5$$\n\n4. Solve Part 2:\n   $$\\frac{3x}{5} - 2 \\leq \\frac{-2}{5} + x$$\n   Multiply both sides by 5:\n   $$3x - 10 \\leq -2 + 5x$$\n   Bring all terms to one side:\n   $$3x - 5x \\leq -2 + 10$$\n   $$-2x \\leq 8$$\n   Divide both sides by -2 (note the inequality sign reverses):\n   $$x \\geq -4$$\n\n5. Combine the results from Part 1 and Part 2:\n   $$-4 \\leq x < 5$$\n\n6. Represent the solution set on the number line:\n   - A closed circle at -4 and an open circle at 5, with a line connecting them.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct splitting and solving of Part 1",
+                    "marks": 0.75
+                  },
+                  {
+                    "scheme": "Correct splitting and solving of Part 2",
+                    "marks": 0.75
+                  },
+                  {
+                    "scheme": "Combining results and representing on number line",
+                    "marks": 0.5
+                  }
+                ],
+                "answer_image": [],
+                "answer_url": ""
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(ii)",
+                "answer_text": "We need to prove:\n$$\\frac{\\sin \\theta - \\cos \\theta + 1}{\\sin \\theta + \\cos \\theta - 1} = \\frac{1}{\\sec \\theta - \\tan \\theta}}$$\n\n1. Start with the left-hand side (LHS):\n   $$LHS = \\frac{\\sin \\theta - \\cos \\theta + 1}{\\sin \\theta + \\cos \\theta - 1}$$\n\n2. Multiply numerator and denominator by $$(\\sin \\theta + \\cos \\theta + 1)$$:\n   $$LHS = \\frac{(\\sin \\theta - \\cos \\theta + 1)(\\sin \\theta + \\cos \\theta + 1)}{(\\sin \\theta + \\cos \\theta - 1)(\\sin \\theta + \\cos \\theta + 1)}$$\n\n3. Simplify the denominator using $$(a - b)(a + b) = a^2 - b^2$$:\n   Denominator = $$(\\sin \\theta + \\cos \\theta)^2 - 1$$\n   $$= \\sin^2 \\theta + \\cos^2 \\theta + 2 \\sin \\theta \\cos \\theta - 1$$\n   $$= 1 + 2 \\sin \\theta \\cos \\theta - 1$$ (since $$\\sin^2 \\theta + \\cos^2 \\theta = 1$$)\n   $$= 2 \\sin \\theta \\cos \\theta$$\n\n4. Simplify the numerator:\n   Numerator = $$(\\sin \\theta - \\cos \\theta + 1)(\\sin \\theta + \\cos \\theta + 1)$$\n   Let $$a = \\sin \\theta$$ and $$b = \\cos \\theta$$, then:\n   $$(a - b + 1)(a + b + 1) = (a + 1)^2 - b^2$$\n   $$= a^2 + 2a + 1 - b^2$$\n   $$= \\sin^2 \\theta + 2 \\sin \\theta + 1 - \\cos^2 \\theta$$\n   $$= (\\sin^2 \\theta - \\cos^2 \\theta) + 2 \\sin \\theta + 1$$\n   $$= -\\cos 2\\theta + 2 \\sin \\theta + 1$$ (since $$\\sin^2 \\theta - \\cos^2 \\theta = -\\cos 2\\theta$$)\n   However, let's simplify differently:\n   $$= (\\sin^2 \\theta + \\sin \\theta) + (\\sin \\theta - \\cos^2 \\theta) + (1 - \\cos \\theta)$$\n   $$= \\sin \\theta (\\sin \\theta + 1) + (\\sin \\theta - (1 - \\sin^2 \\theta)) + (1 - \\cos \\theta)$$\n   $$= \\sin \\theta (\\sin \\theta + 1) + (\\sin \\theta - 1 + \\sin^2 \\theta) + (1 - \\cos \\theta)$$\n   This path seems complex. Let's use another approach:\n   Numerator = $$(\\sin \\theta + 1)^2 - \\cos^2 \\theta$$\n   $$= \\sin^2 \\theta + 2 \\sin \\theta + 1 - \\cos^2 \\theta$$\n   $$= (\\sin^2 \\theta - \\cos^2 \\theta) + 2 \\sin \\theta + 1$$\n   $$= -\\cos 2\\theta + 2 \\sin \\theta + 1$$\n   But we know denominator is $$2 \\sin \\theta \\cos \\theta$$, so:\n   $$LHS = \\frac{- \\cos 2\\theta + 2 \\sin \\theta + 1}{2 \\sin \\theta \\cos \\theta}$$\n\n5. Simplify the right-hand side (RHS):\n   $$RHS = \\frac{1}{\\sec \\theta - \\tan \\theta}$$\n   Multiply numerator and denominator by $$(\\sec \\theta + \\tan \\theta)$$:\n   $$RHS = \\frac{\\sec \\theta + \\tan \\theta}{\\sec^2 \\theta - \\tan^2 \\theta}$$\n   Since $$\\sec^2 \\theta - \\tan^2 \\theta = 1$$:\n   $$RHS = \\sec \\theta + \\tan \\theta$$\n   $$= \\frac{1}{\\cos \\theta} + \\frac{\\sin \\theta}{\\cos \\theta}$$\n   $$= \\frac{1 + \\sin \\theta}{\\cos \\theta}$$\n\n6. Now, let's simplify LHS further:\n   $$LHS = \\frac{(\\sin \\theta + 1)^2 - \\cos^2 \\theta}{2 \\sin \\theta \\cos \\theta}$$\n   $$= \\frac{\\sin^2 \\theta + 2 \\sin \\theta + 1 - \\cos^2 \\theta}{2 \\sin \\theta \\cos \\theta}$$\n   $$= \\frac{(\\sin^2 \\theta - \\cos^2 \\theta) + 2 \\sin \\theta + 1}{2 \\sin \\theta \\cos \\theta}$$\n   $$= \\frac{-(1 - 2 \\sin^2 \\theta) + 2 \\sin \\theta + 1}{2 \\sin \\theta \\cos \\theta}$$ (using $$\\cos 2\\theta = 1 - 2 \\sin^2 \\theta$$)\n   $$= \\frac{-1 + 2 \\sin^2 \\theta + 2 \\sin \\theta + 1}{2 \\sin \\theta \\cos \\theta}$$\n   $$= \\frac{2 \\sin^2 \\theta + 2 \\sin \\theta}{2 \\sin \\theta \\cos \\theta}$$\n   $$= \\frac{2 \\sin \\theta (\\sin \\theta + 1)}{2 \\sin \\theta \\cos \\theta}$$\n   $$= \\frac{\\sin \\theta + 1}{\\cos \\theta}$$\n   $$= \\frac{1 + \\sin \\theta}{\\cos \\theta}$$\n\n7. Thus, LHS = RHS, and the identity is proved.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct simplification of LHS and RHS",
+                    "marks": 1.5
+                  },
+                  {
+                    "scheme": "Correct use of trigonometric identities",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Final proof of equality",
+                    "marks": 0.5
+                  }
+                ],
+                "answer_image": [],
+                "answer_url": ""
+              }
+            ],
+            "answer_image": [],
+            "answer_url": ""
+          },
+          "chapter_id": "60f09ecc-76b5-4cd4-9a7e-6404964db53f"
+        },
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "12",
+          "chapter_name": "Chapter 4",
+          "question_image": [
+            {
+              "key": "question_image",
+              "url": "https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-1-2026070712271578798045900.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260707%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260707T065715Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=e773783fb00f9508a0daf8b5c58790a68d9b010f28821a25aeae02fe99307348"
+            }
+          ],
+          "marks": 5,
+          "question_data": {
+            "question_text": "",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(i)",
+                "question_text": "Solve the quadratic equation $$3x^2 - 7x - 5 = 0$$. Give your answer correct to two decimal places.",
+                "marks": 2,
+                "question_type": "SA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(ii)",
+                "question_text": "From the top of a 7 m high building, the angle of elevation of the top of a cable tower is $$60^\\circ$$ and the angle of depression of its foot is $$45^\\circ$$. Determine the height of the tower.",
+                "marks": 3,
+                "question_type": "SA",
+                "options": null,
+                "child_additional_questions": [
+                  {
+                    "additional_question_type": "REFERENCE",
+                    "question_prefix": "",
+                    "question_text": "![img-1.jpeg](img-1.jpeg)",
+                    "marks": 0,
+                    "question_type": "VSA",
+                    "options": null
+                  }
+                ]
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "",
+            "additional_answers": [
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(i)",
+                "answer_text": "The quadratic equation is:\n$$3x^2 - 7x - 5 = 0$$\n\nUsing the quadratic formula:\n$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$$\nwhere $$a = 3$$, $$b = -7$$, and $$c = -5$$.\n\n1. Calculate the discriminant:\n   $$D = b^2 - 4ac = (-7)^2 - 4(3)(-5) = 49 + 60 = 109$$\n\n2. Substitute into the quadratic formula:\n   $$x = \\frac{-(-7) \\pm \\sqrt{109}}{2 \\times 3}$$\n   $$x = \\frac{7 \\pm \\sqrt{109}}{6}$$\n\n3. Calculate the roots correct to two decimal places:\n   $$x = \\frac{7 + 10.44}{6} = \\frac{17.44}{6} = 2.91$$\n   $$x = \\frac{7 - 10.44}{6} = \\frac{-3.44}{6} = -0.57$$\n\nThus, the solutions are $$x = 2.91$$ and $$x = -0.57$$.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct application of quadratic formula",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Correct calculation of roots",
+                    "marks": 1.0
+                  }
+                ],
+                "answer_image": [],
+                "answer_url": ""
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(ii)",
+                "answer_text": "Let's denote:\n- Height of the building, $$AB = 7$$ m\n- Height of the tower, $$CD = h$$ m\n- Distance between the building and the tower, $$BC = x$$ m\n\nFrom the diagram:\n1. The angle of depression from A to the foot of the tower (B) is $$45^\\circ$$, so:\n   $$\\tan 45^\\circ = \\frac{AB}{BC} = \\frac{7}{x}$$\n   Since $$\\tan 45^\\circ = 1$$:\n   $$1 = \\frac{7}{x}$$\n   $$x = 7$$ m\n\n2. The angle of elevation from A to the top of the tower (D) is $$60^\\circ$$, so:\n   $$\\tan 60^\\circ = \\frac{AD}{AB} = \\frac{h - 7}{x}$$\n   Since $$\\tan 60^\\circ = \\sqrt{3}$$ and $$x = 7$$:\n   $$\\sqrt{3} = \\frac{h - 7}{7}$$\n   $$h - 7 = 7 \\sqrt{3}$$\n   $$h = 7 + 7 \\sqrt{3}$$\n   $$h = 7 (1 + \\sqrt{3})$$\n   $$h \\approx 7 (1 + 1.732) = 7 \\times 2.732 = 19.124$$ m\n\nThus, the height of the tower is approximately $$19.12$$ m.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct use of trigonometric ratios",
+                    "marks": 1.5
+                  },
+                  {
+                    "scheme": "Correct calculation of height",
+                    "marks": 1.5
+                  }
+                ],
+                "child_additional_answers": [],
+                "answer_image": [],
+                "answer_url": ""
+              }
+            ],
+            "answer_image": [],
+            "answer_url": ""
+          },
+          "chapter_id": "60f09ecc-76b5-4cd4-9a7e-6404964db53f"
+        },
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "13",
+          "chapter_name": "Chapter 8",
+          "question_image": [],
+          "marks": 5,
+          "question_data": {
+            "question_text": "",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(i)",
+                "question_text": "Prove: $$\\sqrt{\\frac{1 + \\cos A}{1 - \\cos A}} = \\csc A + \\cot A$$.",
+                "marks": 2,
+                "question_type": "SA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(ii)",
+                "question_text": "A train travels a distance of 480 km at a uniform speed. If the speed had been 8km/h less, then it would have taken 3hours more to cover the same distance. Set up the quadratic equation and find the original speed of the train.",
+                "marks": 3,
+                "question_type": "SA",
+                "options": null
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "",
+            "additional_answers": [
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(i)",
+                "answer_text": "We need to prove:\n$$\\sqrt{\\frac{1 + \\cos A}{1 - \\cos A}} = \\csc A + \\cot A$$\n\n1. Start with the left-hand side (LHS):\n   $$LHS = \\sqrt{\\frac{1 + \\cos A}{1 - \\cos A}}$$\n\n2. Multiply numerator and denominator by $$(1 + \\cos A)$$:\n   $$LHS = \\sqrt{\\frac{(1 + \\cos A)^2}{(1 - \\cos A)(1 + \\cos A)}} = \\sqrt{\\frac{(1 + \\cos A)^2}{1 - \\cos^2 A}} = \\sqrt{\\frac{(1 + \\cos A)^2}{\\sin^2 A}}$$\n\n3. Simplify the square root:\n   $$LHS = \\frac{1 + \\cos A}{\\sin A} = \\frac{1}{\\sin A} + \\frac{\\cos A}{\\sin A} = \\csc A + \\cot A$$\n\nThus, LHS = RHS, and the identity is proved.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct simplification of LHS",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Correct use of trigonometric identities",
+                    "marks": 0.75
+                  },
+                  {
+                    "scheme": "Final proof of equality",
+                    "marks": 0.25
+                  }
+                ],
+                "answer_image": [],
+                "answer_url": ""
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(ii)",
+                "answer_text": "Let the original speed of the train be $$x$$ km/h.\n\n1. Time taken to travel 480 km at speed $$x$$:\n   $$t = \\frac{480}{x}$$ hours\n\n2. If the speed is reduced by 8 km/h, the new speed is $$(x - 8)$$ km/h.\n   Time taken at the new speed:\n   $$t' = \\frac{480}{x - 8}$$ hours\n\n3. According to the problem, the difference in time is 3 hours:\n   $$t' - t = 3$$\n   $$\\frac{480}{x - 8} - \\frac{480}{x} = 3$$\n\n4. Solve the equation:\n   $$480 \\left( \\frac{1}{x - 8} - \\frac{1}{x} \\right) = 3$$\n   $$480 \\left( \\frac{x - (x - 8)}{x(x - 8)} \\right) = 3$$\n   $$480 \\left( \\frac{8}{x(x - 8)} \\right) = 3$$\n   $$\\frac{3840}{x(x - 8)} = 3$$\n   $$3840 = 3x(x - 8)$$\n   $$1280 = x^2 - 8x$$\n   $$x^2 - 8x - 1280 = 0$$\n\n5. Solve the quadratic equation using the quadratic formula:\n   $$x = \\frac{8 \\pm \\sqrt{64 + 5120}}{2} = \\frac{8 \\pm \\sqrt{5184}}{2} = \\frac{8 \\pm 72}{2}$$\n   $$x = \\frac{80}{2} = 40$$ or $$x = \\frac{-64}{2} = -32$$\n\n6. Since speed cannot be negative, the original speed of the train is $$40$$ km/h.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct setup of the equation",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Correct simplification and solving",
+                    "marks": 1.5
+                  },
+                  {
+                    "scheme": "Final answer with reasoning",
+                    "marks": 0.5
+                  }
+                ],
+                "answer_image": [],
+                "answer_url": ""
+              }
+            ],
+            "answer_image": [],
+            "answer_url": ""
+          },
+          "chapter_id": "985e005f-8531-47aa-a64b-bf074fa37549"
+        },
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "14",
+          "chapter_name": "Chapter 8",
+          "question_image": [],
+          "marks": 5,
+          "question_data": {
+            "question_text": "",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(i)",
+                "question_text": "Prove the identity: $$(\\cot A - \\csc A)^2 = \\frac{1 - \\cos A}{1 + \\cos A}$$",
+                "marks": 2,
+                "question_type": "SA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(ii)",
+                "question_text": "Find the range of x that satisfies the following continuous inequation. Then, state the smallest positive integer and the largest negative integer from the solution set: $$x - 2\\frac{1}{3} \\leq \\frac{5x-2}{3} - \\frac{x-1}{2} < x + 1\\frac{1}{6}, \\quad x \\in \\mathbb{R}$$",
+                "marks": 3,
+                "question_type": "SA",
+                "options": null
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "",
+            "additional_answers": [
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(i)",
+                "answer_text": "We need to prove:\n$$(\\cot A - \\csc A)^2 = \\frac{1 - \\cos A}{1 + \\cos A}$$\n\n1. Start with the left-hand side (LHS):\n   $$LHS = (\\cot A - \\csc A)^2$$\n   $$= \\cot^2 A - 2 \\cot A \\csc A + \\csc^2 A$$\n\n2. Express in terms of sine and cosine:\n   $$= \\frac{\\cos^2 A}{\\sin^2 A} - 2 \\frac{\\cos A}{\\sin A} \\frac{1}{\\sin A} + \\frac{1}{\\sin^2 A}$$\n   $$= \\frac{\\cos^2 A - 2 \\cos A + 1}{\\sin^2 A}$$\n   $$= \\frac{(1 - \\cos A)^2}{1 - \\cos^2 A}$$\n   $$= \\frac{(1 - \\cos A)^2}{(1 - \\cos A)(1 + \\cos A)}$$\n   $$= \\frac{1 - \\cos A}{1 + \\cos A}$$\n\nThus, LHS = RHS, and the identity is proved.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct expansion of LHS",
+                    "marks": 0.75
+                  },
+                  {
+                    "scheme": "Correct simplification using identities",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Final proof of equality",
+                    "marks": 0.25
+                  }
+                ],
+                "answer_image": [],
+                "answer_url": ""
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(ii)",
+                "answer_text": "The given inequation is:\n$$x - 2\\frac{1}{3} \\leq \\frac{5x - 2}{3} - \\frac{x - 1}{2} < x + 1\\frac{1}{6}$$\n\n1. Convert mixed numbers to improper fractions:\n   $$x - \\frac{7}{3} \\leq \\frac{5x - 2}{3} - \\frac{x - 1}{2} < x + \\frac{7}{6}$$\n\n2. Solve the left part of the inequation:\n   $$x - \\frac{7}{3} \\leq \\frac{5x - 2}{3} - \\frac{x - 1}{2}$$\n   Multiply through by 6 (LCM of denominators):\n   $$6x - 14 \\leq 2(5x - 2) - 3(x - 1)$$\n   $$6x - 14 \\leq 10x - 4 - 3x + 3$$\n   $$6x - 14 \\leq 7x - 1$$\n   $$-14 + 1 \\leq 7x - 6x$$\n   $$-13 \\leq x$$\n   $$x \\geq -13$$\n\n3. Solve the right part of the inequation:\n   $$\\frac{5x - 2}{3} - \\frac{x - 1}{2} < x + \\frac{7}{6}$$\n   Multiply through by 6:\n   $$2(5x - 2) - 3(x - 1) < 6x + 7$$\n   $$10x - 4 - 3x + 3 < 6x + 7$$\n   $$7x - 1 < 6x + 7$$\n   $$7x - 6x < 7 + 1$$\n   $$x < 8$$\n\n4. Combine the results:\n   $$-13 \\leq x < 8$$\n\n5. The smallest positive integer in the solution set is $$1$$, and the largest negative integer is $$-1$$.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct solving of left inequation",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Correct solving of right inequation",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Combining results and identifying integers",
+                    "marks": 1.0
+                  }
+                ],
+                "answer_image": [],
+                "answer_url": ""
+              }
+            ],
+            "answer_image": [],
+            "answer_url": ""
+          },
+          "chapter_id": "985e005f-8531-47aa-a64b-bf074fa37549"
+        },
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "15",
+          "chapter_name": "Chapter 9",
+          "question_image": [],
+          "marks": 5,
+          "question_data": {
+            "question_text": "",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(i)",
+                "question_text": "The shadow of a vertical tower on a level ground increases by 10m when the altitude of the sun changes from $$45^\\circ$$ to $$30^\\circ$$. Find the height of the tower.",
+                "marks": 2,
+                "question_type": "SA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(ii)",
+                "question_text": "Solve: $$\\frac{a}{ax-1} + \\frac{b}{bx-1} = a + b$$, where $$a + b \\neq 0$$, $$ab \\neq 0$$.",
+                "marks": 3,
+                "question_type": "SA",
+                "options": null
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "",
+            "additional_answers": [
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(i)",
+                "answer_text": "Let the height of the tower be $$h$$ m.\n\n1. When the sun's altitude is $$45^\\circ$$, the shadow length is:\n   $$\\tan 45^\\circ = \\frac{h}{x} = 1$$\n   $$x = h$$\n\n2. When the sun's altitude is $$30^\\circ$$, the shadow length is:\n   $$\\tan 30^\\circ = \\frac{h}{x + 10} = \\frac{1}{\\sqrt{3}}$$\n   $$x + 10 = h \\sqrt{3}$$\n   Since $$x = h$$:\n   $$h + 10 = h \\sqrt{3}$$\n   $$h \\sqrt{3} - h = 10$$\n   $$h (\\sqrt{3} - 1) = 10$$\n   $$h = \\frac{10}{\\sqrt{3} - 1}$$\n   Rationalize the denominator:\n   $$h = \\frac{10 (\\sqrt{3} + 1)}{(\\sqrt{3} - 1)(\\sqrt{3} + 1)} = \\frac{10 (\\sqrt{3} + 1)}{3 - 1} = 5 (\\sqrt{3} + 1)$$\n   $$h = 5 (1.732 + 1) = 5 \\times 2.732 = 13.66$$ m\n\nThus, the height of the tower is approximately $$13.66$$ m.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct use of trigonometric ratios",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Correct calculation of height",
+                    "marks": 1.0
+                  }
+                ],
+                "answer_image": [],
+                "answer_url": ""
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(ii)",
+                "answer_text": "Given the equation:\n$$\\frac{a}{ax - 1} + \\frac{b}{bx - 1} = a + b$$\n\n1. Find a common denominator:\n   $$\\frac{a(bx - 1) + b(ax - 1)}{(ax - 1)(bx - 1)} = a + b$$\n   $$\\frac{abx - a + abx - b}{(ax - 1)(bx - 1)} = a + b$$\n   $$\\frac{2abx - (a + b)}{(ax - 1)(bx - 1)} = a + b$$\n\n2. Cross-multiply:\n   $$2abx - (a + b) = (a + b)(ax - 1)(bx - 1)$$\n\n3. Expand the right-hand side:\n   $$(a + b)(abx^2 - ax - bx + 1) = (a + b)abx^2 - (a + b)(a + b)x + (a + b)$$\n   $$= ab(a + b)x^2 - (a + b)^2 x + (a + b)$$\n\n4. Bring all terms to one side:\n   $$ab(a + b)x^2 - (a + b)^2 x + (a + b) - 2abx + (a + b) = 0$$\n   $$ab(a + b)x^2 - [(a + b)^2 + 2ab]x + 2(a + b) = 0$$\n\n5. Simplify the coefficient of $$x$$:\n   $$(a + b)^2 + 2ab = a^2 + 2ab + b^2 + 2ab = a^2 + 4ab + b^2$$\n   However, let's recheck the simplification:\n   $$(a + b)^2 + 2ab = a^2 + 2ab + b^2 + 2ab = a^2 + 4ab + b^2$$\n   This seems complex. Let's try another approach:\n\n6. Assume $$x \\neq \\frac{1}{a}$$ and $$x \\neq \\frac{1}{b}$$, and rewrite the original equation:\n   $$\\frac{a}{ax - 1} - a = b - \\frac{b}{bx - 1}$$\n   $$a \\left( \\frac{1}{ax - 1} - 1 \\right) = b \\left( 1 - \\frac{1}{bx - 1} \\right)$$\n   $$a \\left( \\frac{1 - (ax - 1)}{ax - 1} \\right) = b \\left( \\frac{bx - 1 - 1}{bx - 1} \\right)$$\n   $$a \\left( \\frac{2 - ax}{ax - 1} \\right) = b \\left( \\frac{bx - 2}{bx - 1} \\right)$$\n\n7. Cross-multiply:\n   $$a(2 - ax)(bx - 1) = b(bx - 2)(ax - 1)$$\n   $$a(2bx - 2 - a b x^2 + a x) = b(a b x^2 - a x - 2b x + 2)$$\n   $$2abx - 2a - a^2 b x^2 + a^2 x = a b^2 x^2 - a b x - 2 b^2 x + 2b$$\n\n8. Bring all terms to one side:\n   $$-a^2 b x^2 - a b^2 x^2 + a^2 x + 2abx + a b x + 2 b^2 x - 2a - 2b = 0$$\n   $$-ab(a + b)x^2 + (a^2 + 3ab + 2b^2)x - 2(a + b) = 0$$\n   Multiply by -1:\n   $$ab(a + b)x^2 - (a^2 + 3ab + 2b^2)x + 2(a + b) = 0$$\n\n9. Factorize the coefficient of $$x$$:\n   $$a^2 + 3ab + 2b^2 = (a + b)(a + 2b)$$\n   So the equation becomes:\n   $$ab(a + b)x^2 - (a + b)(a + 2b)x + 2(a + b) = 0$$\n   Divide by $$(a + b)$$ (since $$a + b \\neq 0$$):\n   $$abx^2 - (a + 2b)x + 2 = 0$$\n\n10. Solve the quadratic equation:\n    $$x = \\frac{(a + 2b) \\pm \\sqrt{(a + 2b)^2 - 8ab}}{2ab}$$\n    $$= \\frac{a + 2b \\pm \\sqrt{a^2 + 4ab + 4b^2 - 8ab}}{2ab}$$\n    $$= \\frac{a + 2b \\pm \\sqrt{a^2 - 4ab + 4b^2}}{2ab}$$\n    $$= \\frac{a + 2b \\pm \\sqrt{(a - 2b)^2}}{2ab}$$\n    $$= \\frac{a + 2b \\pm (a - 2b)}{2ab}$$\n\n11. Thus, the solutions are:\n    $$x = \\frac{a + 2b + a - 2b}{2ab} = \\frac{2a}{2ab} = \\frac{1}{b}$$\n    $$x = \\frac{a + 2b - a + 2b}{2ab} = \\frac{4b}{2ab} = \\frac{2}{a}$$\n\nHowever, $$x = \\frac{1}{b}$$ and $$x = \\frac{1}{a}$$ are excluded because they make the denominators zero. Thus, the only valid solution is:\n$$x = \\frac{2}{a + b}$$\n\nBut let's verify:\nSubstitute $$x = \\frac{2}{a + b}$$ into the original equation:\n$$\\frac{a}{a \\cdot \\frac{2}{a + b} - 1} + \\frac{b}{b \\cdot \\frac{2}{a + b} - 1} = a + b$$\n$$\\frac{a}{\\frac{2a}{a + b} - 1} + \\frac{b}{\\frac{2b}{a + b} - 1} = a + b$$\n$$\\frac{a}{\\frac{2a - (a + b)}{a + b}} + \\frac{b}{\\frac{2b - (a + b)}{a + b}} = a + b$$\n$$\\frac{a(a + b)}{a - b} + \\frac{b(a + b)}{b - a} = a + b$$\n$$\\frac{a(a + b)}{a - b} - \\frac{b(a + b)}{a - b} = a + b$$\n$$\\frac{(a - b)(a + b)}{a - b} = a + b$$\n$$a + b = a + b$$\n\nThus, the solution is $$x = \\frac{2}{a + b}$$.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct simplification and setup",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Correct solving of the equation",
+                    "marks": 1.5
+                  },
+                  {
+                    "scheme": "Final answer with verification",
+                    "marks": 0.5
+                  }
+                ],
+                "answer_image": [],
+                "answer_url": ""
+              }
+            ],
+            "answer_image": [],
+            "answer_url": ""
+          },
+          "chapter_id": "240dc21a-573b-471a-8dd4-5d21f1cb2ef6"
+        },
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "16",
+          "chapter_name": "Chapter 4",
+          "question_image": [],
+          "marks": 5,
+          "question_data": {
+            "question_text": "",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(i)",
+                "question_text": "Given Set $$A = x$$: $$11x - 5 > 7x + 3$$, $$x \\in \\mathbb{R}$$ and Set $$B = x$$: $$18x - 9 \\geq 15 + 12x$$, $$x \\in \\mathbb{R}$$. Find the range of values of $$x$$ that represents the intersection of Set $$A$$ and Set $$B$$.",
+                "marks": 2,
+                "question_type": "SA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(ii)",
+                "question_text": "Prove the identity: $$(\\sin A + \\operatorname{cosec} A)^2 + (\\cos A + \\sec A)^2 = 7 + \\tan^2 A + \\cot^2 A$$.",
+                "marks": 3,
+                "question_type": "SA",
+                "options": null
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "",
+            "additional_answers": [
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(i)",
+                "answer_text": "1. Solve Set A:\n   $$11x - 5 > 7x + 3$$\n   $$11x - 7x > 3 + 5$$\n   $$4x > 8$$\n   $$x > 2$$\n\n2. Solve Set B:\n   $$18x - 9 \\geq 15 + 12x$$\n   $$18x - 12x \\geq 15 + 9$$\n   $$6x \\geq 24$$\n   $$x \\geq 4$$\n\n3. The intersection of Set A and Set B is:\n   $$x \\geq 4$$\n\nThus, the range of $$x$$ is $$[4, \\infty)$$.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct solving of Set A",
+                    "marks": 0.75
+                  },
+                  {
+                    "scheme": "Correct solving of Set B",
+                    "marks": 0.75
+                  },
+                  {
+                    "scheme": "Finding intersection",
+                    "marks": 0.5
+                  }
+                ],
+                "answer_image": [],
+                "answer_url": ""
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(ii)",
+                "answer_text": "We need to prove:\n$$(\\sin A + \\csc A)^2 + (\\cos A + \\sec A)^2 = 7 + \\tan^2 A + \\cot^2 A$$\n\n1. Expand the left-hand side (LHS):\n   $$LHS = (\\sin A + \\csc A)^2 + (\\cos A + \\sec A)^2$$\n   $$= \\sin^2 A + 2 \\sin A \\csc A + \\csc^2 A + \\cos^2 A + 2 \\cos A \\sec A + \\sec^2 A$$\n   $$= \\sin^2 A + \\cos^2 A + 2 \\sin A \\cdot \\frac{1}{\\sin A} + 2 \\cos A \\cdot \\frac{1}{\\cos A} + \\csc^2 A + \\sec^2 A$$\n   $$= 1 + 2 + 2 + \\csc^2 A + \\sec^2 A$$\n   $$= 5 + \\csc^2 A + \\sec^2 A$$\n\n2. Express $$\\csc^2 A$$ and $$\\sec^2 A$$ in terms of $$\\tan A$$ and $$\\cot A$$:\n   $$\\csc^2 A = 1 + \\cot^2 A$$\n   $$\\sec^2 A = 1 + \\tan^2 A$$\n\n3. Substitute these into LHS:\n   $$LHS = 5 + (1 + \\cot^2 A) + (1 + \\tan^2 A)$$\n   $$= 7 + \\tan^2 A + \\cot^2 A$$\n\nThus, LHS = RHS, and the identity is proved.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct expansion of LHS",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Correct use of trigonometric identities",
+                    "marks": 1.5
+                  },
+                  {
+                    "scheme": "Final proof of equality",
+                    "marks": 0.5
+                  }
+                ],
+                "answer_image": [],
+                "answer_url": ""
+              }
+            ],
+            "answer_image": [],
+            "answer_url": ""
+          },
+          "chapter_id": "60f09ecc-76b5-4cd4-9a7e-6404964db53f"
+        }
+      ]
+    }
+  ]
+}

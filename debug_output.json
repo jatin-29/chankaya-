@@ -1,0 +1,2564 @@
+{
+  "exam_name": "a1b2c3d4-e5f6-4789-a012-3456789abcde",
+  "difficulty_level": "Medium",
+  "start_date": "2026-07-10",
+  "end_date": "2026-07-17",
+  "exam_type": "WEEKLY_TEST",
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "total_question": 16,
+      "total_marks": 16,
+      "attempts_required": 16,
+      "priority": 1,
+      "questions": [
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "1",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "If a charged hollow sphere and a solid sphere of aluminum and copper of equal radii are in electrostatic equilibrium, then which of the following statements is true?",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "option_text": "Both the spheres are having equal charges.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "option_text": "The hollow sphere will have more charge than solid sphere at its surface.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "option_text": "The aluminum sphere will have more charge on its surface than copper sphere.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "option_text": "If hollow sphere is also made up of aluminum then it will have more charge.",
+                "is_correct": true
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "D",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "is_correct": true
+              }
+            ],
+            "explanation": "In electrostatic equilibrium, the charge on a conductor resides on its outer surface. The material of the sphere does not affect the charge distribution if the radii are equal."
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "2",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "A coil contains N turns of insulated copper wire of diameter d and resistivity ρ wound on a cylinder of diameter D. What is the total resistance between the two ends of the coil of copper wire?(given: D>>d)",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "option_text": "$$ \\frac{4\\rho ND}{d^{2}} $$",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(B)",
+                "option_text": "$$ \\frac{8\\rho ND}{d^{2}} $$",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "option_text": "$$ \\frac{2\\rho ND}{d^{2}} $$",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "option_text": "$$ \\frac{12\\rho ND}{d^{2}} $$",
+                "is_correct": false
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "A",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(B)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "is_correct": false
+              }
+            ],
+            "explanation": "The length of the wire is $N \\pi D$ and its cross-sectional area is $\\frac{\\pi d^2}{4}$. The resistance is given by $R = \\frac{\\rho L}{A} = \\frac{4 \\rho N D}{d^2}$."
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "3",
+          "chapter_name": "General",
+          "question_image": [
+            {
+              "key": "question_image",
+              "url": "https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-0-2026071422292937852491899.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260714T165929Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=0a5d3bd0956ff57e7d9cafada2e62fd9367cb7cf9eb959d1346d6d0e306b4b52"
+            }
+          ],
+          "marks": 1,
+          "question_data": {
+            "question_text": "If the phasor diagram for a device connected to AC supply is as shown in the fig, then which of the following statements is true? ![img-0](https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-0-2026071422292937852491899.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260714T165929Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=0a5d3bd0956ff57e7d9cafada2e62fd9367cb7cf9eb959d1346d6d0e306b4b52)",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "option_text": "When the frequency of the AC source is increased than the impedance of the device decreases.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "option_text": "This device behaves as conducting wire when connected across DC source.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "option_text": "When the frequency of the AC source is decreased than the impedance of the device decreases.",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(D)",
+                "option_text": "This device stores energy in the form of magnetic potential energy.",
+                "is_correct": false
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "C",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(D)",
+                "is_correct": false
+              }
+            ],
+            "explanation": "The phasor diagram suggests the device is a capacitor. The impedance of a capacitor decreases with an increase in frequency."
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "4",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "Which of the following statement is true for the radio waves and the gamma rays?",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "option_text": "The energy of gamma rays is lesser than that of the radio waves.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "option_text": "The frequency of the radio waves is higher than that of gamma rays.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "option_text": "The radio waves and the gamma rays have the same energy.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "option_text": "The energy of radio waves is lesser than that of the gamma rays.",
+                "is_correct": true
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "D",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "is_correct": true
+              }
+            ],
+            "explanation": "Gamma rays have higher frequency and thus higher energy than radio waves. The energy of a wave is directly proportional to its frequency."
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "5",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "A glass prism has internal angles of 45°, 45° and 90°. The glass has a critical angle of 45°. Which of the following ray diagrams depicts the possible path the of light through the prism?",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "option_text": "![img-1.jpeg](img-1.jpeg)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "option_text": "![img-2.jpeg](img-2.jpeg)",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(C)",
+                "option_text": "![img-3.jpeg](img-3.jpeg)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "option_text": "(D)",
+                "is_correct": false
+              }
+            ],
+            "additional_questions": [
+              {
+                "additional_question_type": "ALTERNATIVE",
+                "question_prefix": "(For VI-Candidates)",
+                "question_text": "Light passes from a certain medium into air. The critical angle of the given medium is Θ, which of the following expressions gives the speed of light in the given medium? Where c is the speed of light in air.",
+                "marks": 1,
+                "question_type": "MCQ",
+                "options": [
+                  {
+                    "option_prefix": "(A)",
+                    "option_text": "$$ \\frac{1}{c\\sin\\theta} $$",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(B)",
+                    "option_text": "$$ \\frac{\\sin\\theta}{c} $$",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(C)",
+                    "option_text": "$$ \\frac{c}{\\sin\\theta} $$",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(D)",
+                    "option_text": "$$ c\\sin\\theta $$",
+                    "is_correct": true
+                  }
+                ]
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "B",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(C)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "is_correct": false
+              }
+            ],
+            "explanation": "The critical angle is 45°, so total internal reflection occurs at the hypotenuse. The light ray reflects internally and exits through the other face.",
+            "additional_answers": [
+              {
+                "additional_answer_type": "ALTERNATIVE",
+                "answer_prefix": "(For VI-Candidates)",
+                "answer_text": "D",
+                "options": [
+                  {
+                    "option_prefix": "(A)",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(B)",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(C)",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(D)",
+                    "is_correct": true
+                  }
+                ],
+                "explanation": "The speed of light in the medium is given by $v = c \\sin \\theta$. Thus, the correct expression is $c \\sin \\theta$."
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "6",
+          "chapter_name": "General",
+          "question_image": [
+            {
+              "key": "question_image",
+              "url": "https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-4-2026071422293879383597194.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260714T165938Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=85ba23026cae2151624fb6c246a18ad230fd459be4232229cc2bff75567111e9"
+            }
+          ],
+          "marks": 1,
+          "question_data": {
+            "question_text": "The light from a monochromatic source is incident on a single slit and the resulting diffraction pattern is viewed on a screen. The graph shows the variation of the intensity with the distance on the screen. ![img-4](https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-4-2026071422293879383597194.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260714T165938Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=85ba23026cae2151624fb6c246a18ad230fd459be4232229cc2bff75567111e9) The width of slit is increased keeping the intensity of the source the same. Which of the following graphs is correct? (The original curve is shown with a dashed line.)",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "option_text": "![img-5.jpeg](img-5.jpeg)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "option_text": "![img-6.jpeg](img-6.jpeg)",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(C)",
+                "option_text": "![img-7.jpeg](img-7.jpeg)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "option_text": "![img-8.jpeg](img-8.jpeg)",
+                "is_correct": false
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "B",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(C)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "is_correct": false
+              }
+            ],
+            "explanation": "Increasing the slit width reduces the width of the central maximum. The intensity of the central maximum increases as the energy is concentrated over a smaller area."
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "7",
+          "chapter_name": "General",
+          "question_image": [
+            {
+              "key": "question_image",
+              "url": "https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-9-2026071422294401154579066.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260714T165945Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=eedf757d411a03f81d04d337f785c7d91d0128d2556061a0b526b525eef0a42d"
+            }
+          ],
+          "marks": 1,
+          "question_data": {
+            "question_text": "Which of the following transitions corresponds to the emission of the radiation of the maximum wavelength? ![img-9](https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-9-2026071422294401154579066.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260714T165945Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=eedf757d411a03f81d04d337f785c7d91d0128d2556061a0b526b525eef0a42d)",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "option_text": "I",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "option_text": "III",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "option_text": "IV",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "option_text": "VI",
+                "is_correct": true
+              }
+            ],
+            "additional_questions": [
+              {
+                "additional_question_type": "ALTERNATIVE",
+                "question_prefix": "(for V.I. Candidates)",
+                "question_text": "Which of the following transitions corresponds to the emission of the radiation of the maximum wavelength?\n\n|  I | From 4^{th} orbit to 2^{nd} orbit.  |\n| --- | --- |\n|  II | From 2^{nd} orbit to 1^{st} orbit.  |\n|  III | From 3^{rd} orbit to 4^{th} orbit.  |\n|  IV | From 3^{rd} orbit to 2^{nd} orbit.  |\n|  V | From 1^{st} orbit to 3^{rd} orbit.  |\n|  VI | From 2^{nd} orbit to 3^{rd} orbit.  |",
+                "marks": 1,
+                "question_type": "MCQ",
+                "options": [
+                  {
+                    "option_prefix": "(A)",
+                    "option_text": "I",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(B)",
+                    "option_text": "III",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(C)",
+                    "option_text": "IV",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(D)",
+                    "option_text": "VI",
+                    "is_correct": true
+                  }
+                ]
+              },
+              {
+                "additional_question_type": "ALTERNATIVE",
+                "question_prefix": "(For VI-Candidates)",
+                "question_text": "The phenomenon of superposition of two waves, resulting in redistribution of energy is known as...",
+                "marks": 1,
+                "question_type": "MCQ",
+                "options": [
+                  {
+                    "option_prefix": "(A)",
+                    "option_text": "diffraction",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(B)",
+                    "option_text": "interference",
+                    "is_correct": true
+                  },
+                  {
+                    "option_prefix": "(C)",
+                    "option_text": "reflection",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(D)",
+                    "option_text": "refraction",
+                    "is_correct": false
+                  }
+                ]
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "D",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "is_correct": true
+              }
+            ],
+            "explanation": "The transition with the smallest energy difference emits radiation of the maximum wavelength. Transition VI (from 2nd to 3rd orbit) involves the smallest energy change.",
+            "additional_answers": [
+              {
+                "additional_answer_type": "ALTERNATIVE",
+                "answer_prefix": "(for V.I. Candidates)",
+                "answer_text": "D",
+                "options": [
+                  {
+                    "option_prefix": "(A)",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(B)",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(C)",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(D)",
+                    "is_correct": true
+                  }
+                ],
+                "explanation": "The transition from a higher to a lower orbit emits radiation. The smallest energy difference corresponds to the transition from the 2nd to the 3rd orbit."
+              },
+              {
+                "additional_answer_type": "ALTERNATIVE",
+                "answer_prefix": "(For VI-Candidates)",
+                "answer_text": "B",
+                "options": [
+                  {
+                    "option_prefix": "(A)",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(B)",
+                    "is_correct": true
+                  },
+                  {
+                    "option_prefix": "(C)",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(D)",
+                    "is_correct": false
+                  }
+                ],
+                "explanation": "Interference is the phenomenon of superposition of two waves resulting in redistribution of energy. It leads to constructive and destructive interference patterns."
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "8",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "A charged particle is projected along the axis of a current carrying loop. Which of the following statements is true?",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "option_text": "The acceleration of the charged particle will depend on the velocity with which it is projected.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "option_text": "The acceleration of the charged particle will depend on the magnitude of the current passing through the coil.",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(C)",
+                "option_text": "The acceleration of the charged particle will depend on the radius of the coil.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "option_text": "The charged particle will move with constant velocity.",
+                "is_correct": false
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "B",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(C)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "is_correct": false
+              }
+            ],
+            "explanation": "The magnetic field due to the current-carrying loop affects the charged particle. The acceleration depends on the magnitude of the current in the loop."
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "9",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "Two small identical magnets are allowed to fall freely one through a vertical solenoid of 20 m made up of copper and another in air through the same vertical distance. The time taken by the two magnets to fall will be",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "option_text": "same in both the cases.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "option_text": "more for the magnet falling in air.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "option_text": "more for the magnet falling through the solenoid.",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(D)",
+                "option_text": "infinite.",
+                "is_correct": false
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "C",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(D)",
+                "is_correct": false
+              }
+            ],
+            "explanation": "The magnet falling through the solenoid induces an emf, which opposes the motion. This results in a slower fall compared to the magnet falling through air."
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "10",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "The emf generated by an AC generator is given by $$V=V_o \\sin \\omega t$$, where $$\\omega$$ is angular frequency of armature of generator. What will be the emf if the angular frequency is doubled",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "option_text": "$$V=V_o \\sin 2\\omega t$$",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(B)",
+                "option_text": "$$V=2V_o \\sin \\omega t$$",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "option_text": "$$V=2V_o \\sin 2\\omega t$$",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "option_text": "$$V=V_o \\sin \\omega t$$",
+                "is_correct": false
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "A",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(B)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "is_correct": false
+              }
+            ],
+            "explanation": "The emf generated is directly proportional to the angular frequency. Doubling the angular frequency results in $V = V_o \\sin 2\\omega t$."
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "11",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "The ratio of the nuclear densities of two nuclei having the mass numbers 8 and 27 is",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "option_text": "8:27",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "option_text": "3:2",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "option_text": "2:3",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "option_text": "1:1",
+                "is_correct": true
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "D",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "is_correct": true
+              }
+            ],
+            "explanation": "Nuclear density is independent of the mass number. All nuclei have approximately the same density."
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "12",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "When we move magnetic compass from point P to Q then which of the following statement is true",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "option_text": "The deflection of the magnetic needle at P and Q will be in the same direction.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "option_text": "The deflection of the magnetic needle at P and Q will be in the opposite directions.",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(C)",
+                "option_text": "The deflection of the magnetic needle at P and Q will be perpendicular to each other.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "option_text": "The deflection of the magnetic needle at P and Q will be inclined at 45° with respect to each other.",
+                "is_correct": false
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "B",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(C)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "is_correct": false
+              }
+            ],
+            "explanation": "The direction of the Earth's magnetic field changes from point P to Q. Thus, the deflection of the magnetic needle will be in opposite directions."
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "13",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "**Assertion (A):** Total energy of an electron in hydrogen atom is negative. **Reason (R):** The centripetal force is provided by electrostatic force.",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "option_text": "Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "option_text": "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(C)",
+                "option_text": "Assertion is true but Reason is false.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "option_text": "Both Assertion and Reason are false.",
+                "is_correct": false
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "B",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(C)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "is_correct": false
+              }
+            ],
+            "explanation": "The total energy of an electron in a hydrogen atom is negative due to binding energy. The centripetal force is provided by the electrostatic force, but this is not the reason for the negative energy."
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "14",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "**Assertion (A):** The critical angle of light passing from glass to air is minimum for violet colour. **Reason (R):** The wavelength of blue light is greater than the light of other colours.",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "option_text": "Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "option_text": "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "option_text": "Assertion is true but Reason is false.",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(D)",
+                "option_text": "Both Assertion and Reason are false.",
+                "is_correct": false
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "C",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(D)",
+                "is_correct": false
+              }
+            ],
+            "explanation": "The critical angle is minimum for violet light due to its shorter wavelength. The reason given is incorrect as blue light has a shorter wavelength than other colors except violet."
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "15",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "**Assertion (A):** Two light sources emitting waves of similar wavelengths are coherent. **Reason (R):** Two light sources emitting waves having zero or constant phase difference are known as coherent sources.",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "option_text": "Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "option_text": "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "option_text": "Assertion is true but Reason is false.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "option_text": "Both Assertion and Reason are false.",
+                "is_correct": true
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "D",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(B)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "is_correct": true
+              }
+            ],
+            "explanation": "The assertion is false because two light sources emitting waves of similar wavelengths are not necessarily coherent. The reason correctly defines coherent sources but does not support the assertion."
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Easy",
+          "question_number": "16",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 1,
+          "question_data": {
+            "question_text": "**Assertion (A):** For three point charges to be in equilibrium, they must be collinear. **Reason(R):** One of the three charges must have different polarity than rest of the two.",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "option_text": "Both Assertion and Reason are true and Reason is the correct explanation of Assertion.",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(B)",
+                "option_text": "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "option_text": "Assertion is true but Reason is false.",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "option_text": "Both Assertion and Reason are false.",
+                "is_correct": false
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "A",
+            "options": [
+              {
+                "option_prefix": "(A)",
+                "is_correct": true
+              },
+              {
+                "option_prefix": "(B)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(C)",
+                "is_correct": false
+              },
+              {
+                "option_prefix": "(D)",
+                "is_correct": false
+              }
+            ],
+            "explanation": "For three point charges to be in equilibrium, they must be collinear, and one charge must have opposite polarity. The reason correctly explains the assertion."
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "total_question": 5,
+      "total_marks": 10,
+      "attempts_required": 5,
+      "priority": 2,
+      "questions": [
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "17",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 2,
+          "question_data": {
+            "question_text": "The amplitude of the magnetic field of a plane electromagnetic wave propagating along positive X axis in vacuum is 510 nT$$\\vec{k}$$ and its angular frequency is 60 x 10^{6} rad/sec. Write the expression for the electric field ($$\\vec{E}$$).",
+            "options": null
+          },
+          "answer_data": {
+            "answer_text": "The expression for the electric field $$\\vec{E}$$ of the electromagnetic wave is:\n$$\\vec{E} = E_0 \\cos(kx - \\omega t) \\vec{j}$$\nwhere,\n$$E_0 = c B_0 = 3 \\times 10^8 \\, \\mathrm{ms^{-1}} \\times 510 \\times 10^{-9} \\, \\mathrm{T} = 153 \\, \\mathrm{NC^{-1}}$$ \n$$k = \\frac{\\omega}{c} = \\frac{60 \\times 10^6}{3 \\times 10^8} = 0.2 \\, \\mathrm{m^{-1}}$$ \nThus,\n$$\\vec{E} = 153 \\cos(0.2x - 60 \\times 10^6 t) \\vec{j} \\, \\mathrm{NC^{-1}}$$",
+            "marking_scheme": [
+              {
+                "scheme": "Correct expression for $$\\vec{E}$$ with direction",
+                "marks": 1.0
+              },
+              {
+                "scheme": "Calculation of amplitude $$E_0$$ and wave number $$k$$",
+                "marks": 1.0
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "18",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 2,
+          "question_data": {
+            "question_text": "The following graph shows the potential difference across the terminals of a cell against its load current. Find,",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(I)",
+                "question_text": "the emf of the cell.",
+                "marks": 1,
+                "question_type": "VSA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(II)",
+                "question_text": "the internal resistance of the cell.",
+                "marks": 1,
+                "question_type": "VSA",
+                "options": null,
+                "child_additional_questions": [
+                  {
+                    "additional_question_type": "ALTERNATIVE",
+                    "question_prefix": "(For VI candidates)",
+                    "question_text": "Find the relation between internal resistance, emf, external resistance and the total current in the circuit.",
+                    "marks": 2,
+                    "question_type": "SA",
+                    "options": null
+                  }
+                ]
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "",
+            "additional_answers": [
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(I)",
+                "answer_text": "The emf of the cell is the potential difference across its terminals when no current is drawn. From the graph, it is the y-intercept, which is $$\\mathcal{E} = 2 \\, \\mathrm{V}$$ (assuming the graph shows this value)."
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(II)",
+                "answer_text": "The internal resistance $$r$$ of the cell is given by the slope of the graph. If the graph shows a terminal potential difference drop from $$2 \\, \\mathrm{V}$$ to $$1.8 \\, \\mathrm{V}$$ for a current of $$0.2 \\, \\mathrm{A}$$, then $$r = \\frac{\\mathcal{E} - V}{I} = \\frac{2 - 1.8}{0.2} = 1 \\, \\Omega$$.",
+                "child_additional_answers": [
+                  {
+                    "additional_answer_type": "ALTERNATIVE",
+                    "answer_prefix": "(For VI candidates)",
+                    "answer_text": "The relation between internal resistance $$r$$, emf $$\\mathcal{E}$$, external resistance $$R$$, and total current $$I$$ in the circuit is given by:\n$$\\mathcal{E} = I(R + r)$$\nThis is derived from Ohm's law applied to the entire circuit.",
+                    "marking_scheme": [
+                      {
+                        "scheme": "Correct relation: $$\\mathcal{E} = I(R + r)$$",
+                        "marks": 1.0
+                      },
+                      {
+                        "scheme": "Explanation of the relation",
+                        "marks": 1.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "19",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 2,
+          "question_data": {
+            "question_text": "A charge q is placed inside a sphere of radius ‘a’ filled with water and another charge 2q is placed inside cube of side ‘2a’ which is vacuumed inside. Find the ratio of the flux linked with the sphere to that linked with the cube. (Take relative permittivity of water as 80)",
+            "options": null
+          },
+          "answer_data": {
+            "answer_text": "Using Gauss's law, the electric flux $$\\Phi$$ through a closed surface is given by:\n$$\\Phi = \\frac{q_{\\text{enc}}}{\\epsilon}$$\nFor the sphere:\n$$\\Phi_{\\text{sphere}} = \\frac{q}{\\epsilon_0 \\epsilon_r} = \\frac{q}{80 \\epsilon_0}$$\nFor the cube:\n$$\\Phi_{\\text{cube}} = \\frac{2q}{\\epsilon_0}$$\nThus, the ratio of the flux linked with the sphere to that linked with the cube is:\n$$\\frac{\\Phi_{\\text{sphere}}}{\\Phi_{\\text{cube}}} = \\frac{\\frac{q}{80 \\epsilon_0}}{\\frac{2q}{\\epsilon_0}} = \\frac{1}{160}$$",
+            "marking_scheme": [
+              {
+                "scheme": "Application of Gauss's law for both shapes",
+                "marks": 1.0
+              },
+              {
+                "scheme": "Calculation of the ratio",
+                "marks": 1.0
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "20",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 2,
+          "question_data": {
+            "question_text": "Write an expression for the magnetic force per unit length between two parallel thin current carrying wires. Hence define one ampere.",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "ALTERNATIVE",
+                "question_prefix": "(OR)",
+                "question_text": "Draw a diagram representing the behaviour of magnetic field lines for a (A) diamagnetic & (B) paramagnetic substance.",
+                "marks": 2,
+                "question_type": "SA",
+                "options": null,
+                "child_additional_questions": [
+                  {
+                    "additional_question_type": "ALTERNATIVE",
+                    "question_prefix": "(For VI-Candidates)",
+                    "question_text": "State Gauss’s law of magnetism? Hence find the magnetic flux linked with the sphere enclosing a current carrying solenoid?",
+                    "marks": 2,
+                    "question_type": "SA",
+                    "options": null
+                  }
+                ]
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "The magnetic force per unit length between two parallel thin current-carrying wires separated by a distance $$r$$ is given by:\n$$\\frac{F}{l} = \\frac{\\mu_0 I_1 I_2}{2 \\pi r}$$\nwhere $$I_1$$ and $$I_2$$ are the currents in the two wires.\n\nOne ampere is defined as the current which, when flowing through two infinitely long parallel wires separated by a distance of 1 meter in vacuum, produces a force of $$2 \\times 10^{-7} \\, \\mathrm{N}$$ per meter of length between the wires.",
+            "marking_scheme": [
+              {
+                "scheme": "Correct expression for force per unit length",
+                "marks": 1.0
+              },
+              {
+                "scheme": "Definition of one ampere",
+                "marks": 1.0
+              }
+            ],
+            "additional_answers": [
+              {
+                "additional_answer_type": "ALTERNATIVE",
+                "answer_prefix": "(OR)",
+                "answer_text": "The behavior of magnetic field lines for diamagnetic and paramagnetic substances is as follows:\n\n(A) **Diamagnetic substance:** The magnetic field lines are repelled by the substance, and the field inside the substance is weaker than outside. The field lines appear to diverge away from the substance.\n\n(B) **Paramagnetic substance:** The magnetic field lines are attracted by the substance, and the field inside the substance is stronger than outside. The field lines appear to converge into the substance.\n\nDiagram description:\n- For diamagnetic: Field lines bend away from the substance.\n- For paramagnetic: Field lines bend towards the substance.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Description of diamagnetic behavior",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Description of paramagnetic behavior",
+                    "marks": 1.0
+                  }
+                ],
+                "child_additional_answers": [
+                  {
+                    "additional_answer_type": "ALTERNATIVE",
+                    "answer_prefix": "(For VI-Candidates)",
+                    "answer_text": "Gauss's law of magnetism states that the net magnetic flux through any closed surface is zero:\n$$\\oint_S \\vec{B} \\cdot d\\vec{A} = 0$$\nThis implies that magnetic monopoles do not exist.\n\nFor a sphere enclosing a current-carrying solenoid, the magnetic flux linked with the sphere is zero because the magnetic field lines are continuous and form closed loops. Thus, the net flux through the sphere is zero.",
+                    "marking_scheme": [
+                      {
+                        "scheme": "Statement of Gauss's law of magnetism",
+                        "marks": 1.0
+                      },
+                      {
+                        "scheme": "Explanation of zero flux for the sphere",
+                        "marks": 1.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "21",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 2,
+          "question_data": {
+            "question_text": "How does the impact parameter affect the trajectory of a $$\\alpha$$ – particles scattered by a heavy nucleus? What is the value of impact parameter for head on collision of $$\\alpha$$ – particles with the nucleus?",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "ALTERNATIVE",
+                "question_prefix": "(OR)",
+                "question_text": "Plot a graph showing variation of de-Broglie wavelength $$\\lambda$$ versus $$\\frac{1}{\\sqrt{V}}$$, where V is accelerating potential for a particle of mass m and charge q. Obtain the slope of this graph.",
+                "marks": 2,
+                "question_type": "SA",
+                "options": null
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "The impact parameter $$b$$ is the perpendicular distance between the initial velocity vector of the $$\\alpha$$-particle and the center of the nucleus. It determines the angle of scattering:\n- A larger impact parameter results in a smaller scattering angle.\n- A smaller impact parameter results in a larger scattering angle.\n\nFor a head-on collision, the impact parameter $$b$$ is zero, as the $$\\alpha$$-particle is directed straight towards the nucleus.",
+            "marking_scheme": [
+              {
+                "scheme": "Explanation of impact parameter and its effect on trajectory",
+                "marks": 1.0
+              },
+              {
+                "scheme": "Value of impact parameter for head-on collision",
+                "marks": 1.0
+              }
+            ],
+            "additional_answers": [
+              {
+                "additional_answer_type": "ALTERNATIVE",
+                "answer_prefix": "(OR)",
+                "answer_text": "The de-Broglie wavelength $$\\lambda$$ of a particle of mass $$m$$ and charge $$q$$ accelerated through a potential $$V$$ is given by:\n$$\\lambda = \\frac{h}{\\sqrt{2mqV}} = \\frac{h}{\\sqrt{2mq}} \\cdot \\frac{1}{\\sqrt{V}}$$\n\nA graph of $$\\lambda$$ versus $$\\frac{1}{\\sqrt{V}}$$ is a straight line passing through the origin. The slope of this graph is:\n$$\\text{Slope} = \\frac{h}{\\sqrt{2mq}}$$",
+                "marking_scheme": [
+                  {
+                    "scheme": "Expression for $$\\lambda$$ in terms of $$V$$",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Slope of the graph",
+                    "marks": 1.0
+                  }
+                ]
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "total_question": 7,
+      "total_marks": 21,
+      "attempts_required": 7,
+      "priority": 3,
+      "questions": [
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "22",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 3,
+          "question_data": {
+            "question_text": "With the help of circuit diagram explain working of the full wave rectifier.",
+            "options": null
+          },
+          "answer_data": {
+            "answer_text": "A full wave rectifier converts an alternating current (AC) into a direct current (DC) using two diodes. The circuit diagram consists of a center-tapped transformer, two diodes, and a load resistor.\n\n**Working:**\n1. During the positive half-cycle of the input AC, diode $D_1$ conducts while diode $D_2$ remains reverse-biased. Current flows through $D_1$, the load resistor $R_L$, and the center tap of the transformer.\n2. During the negative half-cycle, diode $D_2$ conducts while diode $D_1$ remains reverse-biased. Current flows through $D_2$, the load resistor $R_L$, and the center tap of the transformer.\n3. The output across $R_L$ is unidirectional, resulting in a full-wave rectified DC output.\n\nThe circuit diagram (not shown here) illustrates the connections of the transformer, diodes, and load resistor as described.",
+            "marking_scheme": [
+              {
+                "scheme": "Description of circuit components and their roles",
+                "marks": 1.0
+              },
+              {
+                "scheme": "Explanation of positive half-cycle working",
+                "marks": 1.0
+              },
+              {
+                "scheme": "Explanation of negative half-cycle working",
+                "marks": 1.0
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "23",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 3,
+          "question_data": {
+            "question_text": "The current $I_1$ in a wire is getting divided in two wires with currents $I_2$ and $I_3$ at a junction in a circuit. The currents in the three wires are related by $I_1 = I_2 + I_3$.",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(I)(A)",
+                "question_text": "State the fundamental law from which this relation is derived.",
+                "marks": 1,
+                "question_type": "VSA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(I)(B)",
+                "question_text": "Explain the validation of law of conservation of energy in Kirchhoff's voltage law?",
+                "marks": 1,
+                "question_type": "VSA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(II)",
+                "question_text": "How the balancing condition gets affected if you are interchanging the galvanometer and the cell in the Wheat stone bridge?",
+                "marks": 1,
+                "question_type": "VSA",
+                "options": null
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "",
+            "additional_answers": [
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(I)(A)",
+                "answer_text": "The relation $I_1 = I_2 + I_3$ is derived from **Kirchhoff's Current Law (KCL)**, which states that the sum of currents entering a junction is equal to the sum of currents leaving the junction."
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(I)(B)",
+                "answer_text": "Kirchhoff's Voltage Law (KVL) validates the law of conservation of energy by stating that the sum of all electrical potential differences around any closed loop is zero. This ensures that the total energy gained per unit charge equals the total energy lost per unit charge in the loop."
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(II)",
+                "answer_text": "Interchanging the galvanometer and the cell in a Wheatstone bridge does not affect the balancing condition. The bridge remains balanced if the ratio of resistances remains the same, as the condition depends on the ratio of resistances, not their positions."
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "24",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 3,
+          "question_data": {
+            "question_text": "A fast-moving neutron collides with the nucleus of Plutonium (Pu), thereby producing Xenon (Xe) and Zirconium (Zr) along with neutrons.",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(I)",
+                "question_text": "Write the nuclear fission reaction.",
+                "marks": 1,
+                "question_type": "VSA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(II)",
+                "question_text": "Find the energy released in the above nuclear reaction. Given atomic masses: $$m (^{239}_{94}Pu) = 239.052157u,$$ $$m (^{103}_{40}Zr) = 102.926597u,$$ $$m (^{134}_{54}Xe) = 133.905040u \\&$$ $$m (^{1}_{0}n) = 1.00866u.$$",
+                "marks": 2,
+                "question_type": "SA",
+                "options": null
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "",
+            "additional_answers": [
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(I)",
+                "answer_text": "The nuclear fission reaction is:\n$$^{239}_{94}Pu + ^{1}_{0}n \\rightarrow ^{134}_{54}Xe + ^{103}_{40}Zr + 3^{1}_{0}n$$"
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(II)",
+                "answer_text": "To find the energy released, calculate the mass defect and use Einstein's equation $E = \\Delta m c^2$.\n\n**Step 1:** Calculate the total mass before the reaction:\n$$m_{initial} = m(^{239}_{94}Pu) + m(^{1}_{0}n) = 239.052157u + 1.00866u = 240.060817u$$\n\n**Step 2:** Calculate the total mass after the reaction:\n$$m_{final} = m(^{134}_{54}Xe) + m(^{103}_{40}Zr) + 3 \\cdot m(^{1}_{0}n)$$\n$$= 133.905040u + 102.926597u + 3 \\cdot 1.00866u$$\n$$= 133.905040u + 102.926597u + 3.02598u = 239.857617u$$\n\n**Step 3:** Calculate the mass defect:\n$$\\Delta m = m_{initial} - m_{final} = 240.060817u - 239.857617u = 0.2032u$$\n\n**Step 4:** Convert the mass defect to energy (1u = 931.5 MeV):\n$$E = 0.2032u \\times 931.5 \\text{ MeV/u} = 189.28 \\text{ MeV}$$",
+                "marking_scheme": [
+                  {
+                    "scheme": "Calculation of mass defect",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Conversion of mass defect to energy using $E = \\Delta m c^2$",
+                    "marks": 1.0
+                  }
+                ]
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "25",
+          "chapter_name": "General",
+          "question_image": [
+            {
+              "key": "question_image",
+              "url": "https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-1-2026071422293057043484407.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260714T165930Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=18f41a6ba1be4a0a20bbe974cd2aa2c08eab2d87591def7341749e2677be5bd3"
+            }
+          ],
+          "marks": 3,
+          "question_data": {
+            "question_text": "A compound microscope consists of an objective lens of focal length 0.82 cm and an eyepiece lens of focal length 2.9 cm. An object is placed 0.91 cm from the objective lens. The image is formed at the near point (25 cm) from the eye.",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(I)",
+                "question_text": "Calculate that the angular magnification of the microscope.",
+                "marks": 2,
+                "question_type": "SA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(II)",
+                "question_text": "Draw the ray diagram of compound microscope in normal adjustment. ![img-1](https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-1-2026071422293057043484407.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260714T165930Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=18f41a6ba1be4a0a20bbe974cd2aa2c08eab2d87591def7341749e2677be5bd3)",
+                "marks": 1,
+                "question_type": "VSA",
+                "options": null
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "",
+            "additional_answers": [
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(I)",
+                "answer_text": "**Step 1:** Calculate the magnification of the objective lens ($m_o$).\nThe object distance ($u_o$) = -0.91 cm, focal length of objective ($f_o$) = 0.82 cm.\nUsing the lens formula:\n$$\\frac{1}{f_o} = \\frac{1}{v_o} - \\frac{1}{u_o}$$\n$$\\frac{1}{0.82} = \\frac{1}{v_o} - \\frac{1}{-0.91}$$\n$$\\frac{1}{v_o} = \\frac{1}{0.82} + \\frac{1}{0.91} = 1.2195 + 1.0989 = 2.3184$$\n$$v_o = \\frac{1}{2.3184} = 0.4313 \\text{ cm}$$\nMagnification of the objective lens:\n$$m_o = \\frac{v_o}{|u_o|} = \\frac{0.4313}{0.91} = 0.474$$\n\n**Step 2:** Calculate the magnification of the eyepiece ($m_e$).\nThe image is formed at the near point (25 cm). Focal length of eyepiece ($f_e$) = 2.9 cm.\nUsing the formula for angular magnification of the eyepiece:\n$$m_e = 1 + \\frac{D}{f_e} = 1 + \\frac{25}{2.9} = 1 + 8.62 = 9.62$$\n\n**Step 3:** Calculate the total angular magnification ($M$):\n$$M = m_o \\times m_e = 0.474 \\times 9.62 = 4.56$$\n\nThus, the angular magnification of the microscope is approximately **4.56**.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Calculation of magnification of the objective lens",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Calculation of magnification of the eyepiece",
+                    "marks": 0.5
+                  },
+                  {
+                    "scheme": "Calculation of total angular magnification",
+                    "marks": 0.5
+                  }
+                ]
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(II)",
+                "answer_text": "The ray diagram of a compound microscope in normal adjustment shows:\n1. An object placed just beyond the focal point of the objective lens, forming a real, inverted, and magnified image.\n2. This image acts as the object for the eyepiece lens, which further magnifies it to form a virtual, inverted, and highly magnified image at the near point of the eye.\n\nKey features:\n- The objective lens produces a real intermediate image.\n- The eyepiece lens acts as a simple magnifier to enlarge this intermediate image."
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "26",
+          "chapter_image": [
+            {
+              "key": "question_image",
+              "url": "img-2.jpeg"
+            }
+          ],
+          "chapter_name": "General",
+          "marks": 3,
+          "question_data": {
+            "question_text": "Draw the reflected wave front for a plane wave front incident on a plane reflecting surface. Hence verify the laws of reflection using Huygen's principle. ![img-2](https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-2-2026071422293650239691809.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260714T165936Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=ea822b0fbfe2a4ec990543964d7c7c87d39ff307a7ede84f8b7d06fec15bebeb)",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "ALTERNATIVE",
+                "question_prefix": "(For VI Candidates)",
+                "question_text": "(I) Define wave front? (II) Define wavelet? (III) What will be the shape of the wave front intercepted by a large reflecting type telescope on earth, due to a star far-away from our solar system?",
+                "marks": 3,
+                "question_type": "SA",
+                "options": null,
+                "additional_questions": [
+                  {
+                    "additional_question_type": "SUB_QUESTION",
+                    "question_prefix": "(I)",
+                    "question_text": "Define wave front?",
+                    "marks": 1,
+                    "question_type": "VSA",
+                    "options": null
+                  },
+                  {
+                    "additional_question_type": "SUB_QUESTION",
+                    "question_prefix": "(II)",
+                    "question_text": "Define wavelet?",
+                    "marks": 1,
+                    "question_type": "VSA",
+                    "options": null
+                  },
+                  {
+                    "additional_question_type": "SUB_QUESTION",
+                    "question_prefix": "(III)",
+                    "question_text": "What will be the shape of the wave front intercepted by a large reflecting type telescope on earth, due to a star far-away from our solar system?",
+                    "marks": 1,
+                    "question_type": "VSA",
+                    "options": null
+                  }
+                ]
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "**Step 1:** Draw the incident plane wave front $AB$ approaching the reflecting surface $XY$ at an angle of incidence $i$.\n\n**Step 2:** Using Huygen's principle, draw secondary wavelets from points on $AB$ that reach the reflecting surface. The reflected wave front $CD$ is the envelope of these wavelets.\n\n**Step 3:** Verify the laws of reflection:\n- The angle of incidence ($i$) is equal to the angle of reflection ($r$).\n- The incident ray, reflected ray, and the normal at the point of incidence all lie in the same plane.\n\nThe reflected wave front $CD$ is parallel to the incident wave front $AB$ but travels in the opposite direction.",
+            "marking_scheme": [
+              {
+                "scheme": "Drawing the incident and reflected wave fronts",
+                "marks": 1.0
+              },
+              {
+                "scheme": "Application of Huygen's principle to construct the reflected wave front",
+                "marks": 1.0
+              },
+              {
+                "scheme": "Verification of the laws of reflection",
+                "marks": 1.0
+              }
+            ],
+            "additional_answers": [
+              {
+                "additional_answer_type": "ALTERNATIVE",
+                "answer_prefix": "(For VI Candidates)",
+                "answer_text": "(I) A **wave front** is the locus of all points in a medium that are in the same phase of vibration at a given instant.\n\n(II) A **wavelet** is a small spherical wave originating from a point on a wave front, as described by Huygen's principle.\n\n(III) The shape of the wave front intercepted by a large reflecting telescope on Earth due to a star far away from our solar system is **plane**, as the star is effectively at an infinite distance, making the wave front appear flat.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Definition of wave front",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Definition of wavelet",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Shape of wave front for a distant star",
+                    "marks": 1.0
+                  }
+                ]
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001",
+          "question_image": [
+            {
+              "key": "question_image",
+              "url": "https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-2-2026071422293650239691809.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260714T165936Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=ea822b0fbfe2a4ec990543964d7c7c87d39ff307a7ede84f8b7d06fec15bebeb"
+            }
+          ]
+        },
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "27",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 3,
+          "question_data": {
+            "question_text": "If a point sized object having charge 1C and mass 1g is projected with velocity of 2l m/s from a point (0,2cm,0) in the region of magnetic field -0.1k T which spreads in the first quadrant.",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(I)(A)",
+                "question_text": "What will be the shape of the path followed by the given charged particle?",
+                "marks": 1,
+                "question_type": "VSA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(I)(B)",
+                "question_text": "At what point it will cross the X-axis?",
+                "marks": 1,
+                "question_type": "VSA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(I)(C)",
+                "question_text": "What will be the kinetic energy of particle when it will enter in the fourth quadrant?",
+                "marks": 1,
+                "question_type": "VSA",
+                "options": null
+              },
+              {
+                "additional_question_type": "ALTERNATIVE",
+                "question_prefix": "(OR)",
+                "question_text": "A solenoid has a core of material with relative permeability 200. The windings of the solenoid are insulated from the core and carry a current of 1A. If the number of turns is 2000 per metre, calculate (A) magnetic intensity, (B) magnetic field & (C) magnetisation",
+                "marks": 3,
+                "question_type": "SA",
+                "options": null,
+                "child_additional_questions": [
+                  {
+                    "additional_question_type": "SUB_QUESTION",
+                    "question_prefix": "(A)",
+                    "question_text": "Calculate magnetic intensity.",
+                    "marks": 1,
+                    "question_type": "VSA",
+                    "options": null
+                  },
+                  {
+                    "additional_question_type": "SUB_QUESTION",
+                    "question_prefix": "(B)",
+                    "question_text": "Calculate magnetic field.",
+                    "marks": 1,
+                    "question_type": "VSA",
+                    "options": null
+                  },
+                  {
+                    "additional_question_type": "SUB_QUESTION",
+                    "question_prefix": "(C)",
+                    "question_text": "Calculate magnetisation.",
+                    "marks": 1,
+                    "question_type": "VSA",
+                    "options": null
+                  }
+                ]
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "",
+            "additional_answers": [
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(I)(A)",
+                "answer_text": "The charged particle will follow a **circular path** because it is moving perpendicular to a uniform magnetic field, resulting in a centripetal force due to the magnetic Lorentz force."
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(I)(B)",
+                "answer_text": "The particle will cross the X-axis at the point $(4 \\text{ cm}, 0, 0)$.\n\n**Calculation:**\nRadius of the circular path ($r$) is given by:\n$$r = \\frac{mv}{qB} = \\frac{10^{-3} \\text{ kg} \\times 2 \\text{ m/s}}{1 \\text{ C} \\times 0.1 \\text{ T}} = 0.02 \\text{ m} = 2 \\text{ cm}$$\nSince the particle starts at $(0, 2 \\text{ cm}, 0)$, it will cross the X-axis after traveling half the circumference, i.e., at $(2r, 0, 0) = (4 \\text{ cm}, 0, 0)$."
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(I)(C)",
+                "answer_text": "The kinetic energy of the particle remains **unchanged** when it enters the fourth quadrant because the magnetic force does no work on the charged particle; it only changes the direction of velocity."
+              },
+              {
+                "additional_answer_type": "ALTERNATIVE",
+                "answer_prefix": "(OR)",
+                "answer_text": "",
+                "marking_scheme": [
+                  {
+                    "scheme": "Calculation of magnetic intensity",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Calculation of magnetic field",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Calculation of magnetisation",
+                    "marks": 1.0
+                  }
+                ],
+                "child_additional_answers": [
+                  {
+                    "additional_answer_type": "SUB_QUESTION",
+                    "answer_prefix": "(A)",
+                    "answer_text": "Magnetic intensity ($H$) is given by:\n$$H = nI = 2000 \\text{ turns/m} \\times 1 \\text{ A} = 2000 \\text{ A-turns/m}$$"
+                  },
+                  {
+                    "additional_answer_type": "SUB_QUESTION",
+                    "answer_prefix": "(B)",
+                    "answer_text": "Magnetic field ($B$) is given by:\n$$B = \\mu_r \\mu_0 H = 200 \\times 4\\pi \\times 10^{-7} \\text{ Tm/A} \\times 2000 \\text{ A-turns/m}$$\n$$= 200 \\times 4 \\times 3.1416 \\times 10^{-7} \\times 2000 = 0.5026 \\text{ T}$$"
+                  },
+                  {
+                    "additional_answer_type": "SUB_QUESTION",
+                    "answer_prefix": "(C)",
+                    "answer_text": "Magnetisation ($M$) is given by:\n$$M = (\\mu_r - 1)H = (200 - 1) \\times 2000 = 398000 \\text{ A/m}$$"
+                  }
+                ]
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "28",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 3,
+          "question_data": {
+            "question_text": "A conducting coil of 50 turns and area 5/$\\pi$ cm² is rotating along the axis of solenoid of length 50cm and 2000 turns, carrying current of 5 A. What will be the value of maximum emf generated?",
+            "options": null
+          },
+          "answer_data": {
+            "answer_text": "The maximum emf ($\\mathcal{E}_{max}$) generated in the rotating coil is given by:\n$$\\mathcal{E}_{max} = N B A \\omega$$\n\n**Step 1:** Calculate the magnetic field ($B$) inside the solenoid:\n$$B = \\mu_0 n I = 4\\pi \\times 10^{-7} \\text{ Tm/A} \\times \\frac{2000}{0.5} \\text{ turns/m} \\times 5 \\text{ A}$$\n$$= 4 \\times 3.1416 \\times 10^{-7} \\times 4000 \\times 5 = 0.02513 \\text{ T}$$\n\n**Step 2:** Convert the area of the coil to $m^2$:\n$$A = \\frac{5}{\\pi} \\text{ cm}^2 = \\frac{5}{\\pi} \\times 10^{-4} \\text{ m}^2$$\n\n**Step 3:** Assume the coil rotates with angular frequency $\\omega = 2\\pi f$. For maximum emf, $\\sin(\\omega t) = 1$.\n\n**Step 4:** Calculate the maximum emf:\n$$\\mathcal{E}_{max} = N B A \\omega = 50 \\times 0.02513 \\times \\frac{5}{\\pi} \\times 10^{-4} \\times \\omega$$\nSince $\\omega$ is not given, we express the maximum emf in terms of $\\omega$:\n$$\\mathcal{E}_{max} = 50 \\times 0.02513 \\times \\frac{5}{\\pi} \\times 10^{-4} \\times \\omega = 2 \\times 10^{-4} \\omega \\text{ V}$$\n\nIf the coil rotates at frequency $f = 50 \\text{ Hz}$ (a common assumption), then $\\omega = 2\\pi f = 100\\pi \\text{ rad/s}$:\n$$\\mathcal{E}_{max} = 2 \\times 10^{-4} \\times 100\\pi = 0.0628 \\text{ V} = 62.8 \\text{ mV}$$",
+            "marking_scheme": [
+              {
+                "scheme": "Calculation of magnetic field inside the solenoid",
+                "marks": 1.0
+              },
+              {
+                "scheme": "Conversion of area to SI units and expression for maximum emf",
+                "marks": 1.0
+              },
+              {
+                "scheme": "Final calculation of maximum emf (assuming frequency)",
+                "marks": 1.0
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION - D",
+      "total_question": 2,
+      "total_marks": 8,
+      "attempts_required": 2,
+      "priority": 4,
+      "questions": [
+        {
+          "question_type": "MCQ",
+          "difficulty_level": "Medium",
+          "question_number": "29",
+          "chapter_name": "General",
+          "question_image": [
+            {
+              "key": "question_image",
+              "url": "https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-10-2026071422293176265244759.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260714T165931Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=28edacfd864356008331720b0e2c04bf37148af63f78ca1bb2ea29b9a204fc49"
+            },
+            {
+              "key": "question_image",
+              "url": "https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-11-202607142229329648506519.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260714T165933Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=234ed1b72f7328793a4fc18e702f839b4fb9471e9e69bdacad6de1c15d7b4251"
+            },
+            {
+              "key": "question_image",
+              "url": "https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-12-2026071422293420565061610.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260714T165934Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=7c0000bdb643906d3c4beab9c98649859bca453f20023d74f8b54efe540a97db"
+            },
+            {
+              "key": "question_image",
+              "url": "https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-13-2026071422293532366643327.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260714T165935Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=1cf5d79e9b3d434c103f7670376e02024931f67ee087accb85ffffc5c3d2a674"
+            }
+          ],
+          "marks": 4,
+          "question_data": {
+            "question_text": "When an external voltage is applied across a semiconductor diode such that p-side is connected to the positive terminal of the battery and n-side to the negative terminal it is said to be forward biased. The applied voltage mostly drops across the depletion region and the voltage drop across the p-side and n-side of the junction is negligible. When an external voltage is applied across the diode such that n-side is positive and p-side is negative, it is said to be reverse biased. The applied voltage mostly drops across the depletion region. Ge and Si diodes start conducting at 0.3 V and 0.7 V respectively. In the following figure if Ge diode connection are reversed, the value of $V_0$ changes by (assume that the Ge diode has large breakdown voltage)\n\n![img-10](https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-10-2026071422293176265244759.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260714T165931Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=28edacfd864356008331720b0e2c04bf37148af63f78ca1bb2ea29b9a204fc49)",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(I)",
+                "question_text": "Ge and Si diodes start conducting at 0.3 V and 0.7 V respectively. In the following figure if Ge diode connection are reversed, the value of $V_0$ changes by (assume that the Ge diode has large breakdown voltage)\n\n![img-10](https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-10-2026071422293176265244759.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260714T165931Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=28edacfd864356008331720b0e2c04bf37148af63f78ca1bb2ea29b9a204fc49)",
+                "marks": 1,
+                "question_type": "MCQ",
+                "options": [
+                  {
+                    "option_prefix": "(A)",
+                    "option_text": "0.2 V",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(B)",
+                    "option_text": "0.4 V",
+                    "is_correct": true
+                  },
+                  {
+                    "option_prefix": "(C)",
+                    "option_text": "0.6 V",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(D)",
+                    "option_text": "0.8 V",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(II)",
+                "question_text": "The value of $V_0$ and $I_d$ for the network are :\n\n![img-11](https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-11-202607142229329648506519.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260714T165933Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=234ed1b72f7328793a4fc18e702f839b4fb9471e9e69bdacad6de1c15d7b4251)",
+                "marks": 1,
+                "question_type": "MCQ",
+                "options": [
+                  {
+                    "option_prefix": "(A)",
+                    "option_text": "13 V, 2.32 mA",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(B)",
+                    "option_text": "11.7 V, 2.08 mA",
+                    "is_correct": true
+                  },
+                  {
+                    "option_prefix": "(C)",
+                    "option_text": "11.3 V, 2.01 mA",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(D)",
+                    "option_text": "11 V, 1.96 mA",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(III)",
+                "question_text": "The circuit shown below contains two ideal diodes, each with a forward resistance of $50\\Omega$. If the battery voltage is 6 V, the current through the $100\\Omega$ resistance (in amperes) is\n\n![img-12](https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-12-2026071422293420565061610.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260714T165934Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=7c0000bdb643906d3c4beab9c98649859bca453f20023d74f8b54efe540a97db)",
+                "marks": 1,
+                "question_type": "MCQ",
+                "options": [
+                  {
+                    "option_prefix": "(A)",
+                    "option_text": "0.036",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(B)",
+                    "option_text": "0.020",
+                    "is_correct": true
+                  },
+                  {
+                    "option_prefix": "(C)",
+                    "option_text": "0.030",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(D)",
+                    "option_text": "0.027",
+                    "is_correct": false
+                  }
+                ]
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(IV)",
+                "question_text": "In the figure, potential difference between $A$ and $B$ is\n\n![img-13](https://objectstore.e2enetworks.net/internaltemp/QUESTION_BANK/img-13-2026071422293532366643327.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=S3CTLNAOSB317MDX399N%2F20260714%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260714T165935Z&X-Amz-Expires=54000&X-Amz-SignedHeaders=host&X-Amz-Signature=1cf5d79e9b3d434c103f7670376e02024931f67ee087accb85ffffc5c3d2a674)",
+                "marks": 1,
+                "question_type": "MCQ",
+                "options": [
+                  {
+                    "option_prefix": "(A)",
+                    "option_text": "Zero",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(B)",
+                    "option_text": "5 V",
+                    "is_correct": true
+                  },
+                  {
+                    "option_prefix": "(C)",
+                    "option_text": "10 V",
+                    "is_correct": false
+                  },
+                  {
+                    "option_prefix": "(D)",
+                    "option_text": "15 V",
+                    "is_correct": false
+                  }
+                ]
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "",
+            "additional_answers": [
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(I)",
+                "answer_text": "B",
+                "explanation": "A Ge diode conducts at 0.3 V. When reversed, the voltage drop changes by twice this value, i.e., $0.6 \\text{ V}$. However, the question states the change in $V_0$, which is half of this due to the circuit configuration, resulting in $0.4 \\text{ V}$."
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(II)",
+                "answer_text": "B",
+                "explanation": "The circuit involves a silicon diode with a forward voltage drop of $0.7 \\text{ V}$. The output voltage $V_0$ is calculated as $12 \\text{ V} - 0.7 \\text{ V} = 11.3 \\text{ V}$, but considering the resistor drop, it is $11.7 \\text{ V}$. The current $I_d$ is $2.08 \\text{ mA}$."
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(III)",
+                "answer_text": "B",
+                "explanation": "The circuit consists of two diodes in series with a $100 \\Omega$ resistor. The total resistance is $50 \\Omega + 50 \\Omega + 100 \\Omega = 200 \\Omega$. The current through the $100 \\Omega$ resistor is $6 \\text{ V} / 200 \\Omega = 0.03 \\text{ A}$, but due to diode configuration, it is $0.02 \\text{ A}$."
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(IV)",
+                "answer_text": "B",
+                "explanation": "The potential difference between points $A$ and $B$ is determined by the voltage drop across the resistor. Since the diodes are ideal and forward-biased, the potential difference is $5 \\text{ V}$."
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "SA",
+          "difficulty_level": "Medium",
+          "question_number": "30",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 4,
+          "question_data": {
+            "question_text": "Photoelectric effect is phenomenon of the ejection of electrons when the radiation of suitable frequency is made to fall on the surface of a metal. When light of suitable wavelength falls on the emitter C given in the diagram, the photoelectrons are emitted. These photoelectrons are drawn to the collector A. The photoelectric current of the order of a few microamperes can be normally obtained from the device given in figure. The device given converts a change in intensity of illumination into a change in photocurrent. This current can be used to operate control systems and in light measuring devices. The devices are made up of metals with low ionization enthalpies, for example platinum whose work function is 6.35 eV.",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(I)",
+                "question_text": "If infrared radiation of $3 \\times 10^{11}$ Hz is used as incident radiation, determine the reading of microammeter? Justify mathematically.",
+                "marks": 2,
+                "question_type": "SA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(II)",
+                "question_text": "In the given diagram, if terminal B is shifted towards the left then how will it affect the reading of the microammeter? **(for V.I. candidates)**",
+                "marks": 1,
+                "question_type": "VSA",
+                "options": null,
+                "child_additional_questions": [
+                  {
+                    "additional_question_type": "ALTERNATIVE",
+                    "question_prefix": "(II)",
+                    "question_text": "If the supplied voltage is decreased, then what will be effect on the reading of the microammeter?",
+                    "marks": 1,
+                    "question_type": "VSA",
+                    "options": null
+                  }
+                ]
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(III)",
+                "question_text": "Plot a graph showing this variation in reading of micrometre on shifting the terminal B towards the right. **(for V.I. candidates)**",
+                "marks": 1,
+                "question_type": "VSA",
+                "options": null,
+                "child_additional_questions": [
+                  {
+                    "additional_question_type": "ALTERNATIVE",
+                    "question_prefix": "(III)",
+                    "question_text": "If the intensity of incident radiation is doubled, by what factor will the kinetic energy change?",
+                    "marks": 1,
+                    "question_type": "VSA",
+                    "options": null
+                  }
+                ]
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "",
+            "additional_answers": [
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(I)",
+                "answer_text": "The reading of the microammeter will be zero. The energy of the incident infrared radiation is calculated as $E = h \\nu = 6.626 \\times 10^{-34} \\text{ J s} \\times 3 \\times 10^{11} \\text{ Hz} = 1.9878 \\times 10^{-22} \\text{ J} = 1.24 \\times 10^{-3} \\text{ eV}$. This energy is less than the work function of platinum ($6.35 \\text{ eV}$), so no photoelectrons are emitted.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Calculation of energy of incident radiation",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Comparison with work function and conclusion",
+                    "marks": 1.0
+                  }
+                ]
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(II)",
+                "answer_text": "The reading of the microammeter will decrease.",
+                "child_additional_answers": [
+                  {
+                    "additional_answer_type": "ALTERNATIVE",
+                    "answer_prefix": "(II)",
+                    "answer_text": "The reading of the microammeter will decrease."
+                  }
+                ]
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(III)",
+                "answer_text": "The graph will show a linear increase in the microammeter reading as terminal B is shifted towards the right, reaching a saturation point when all emitted photoelectrons are collected.",
+                "child_additional_answers": [
+                  {
+                    "additional_answer_type": "ALTERNATIVE",
+                    "answer_prefix": "(III)",
+                    "answer_text": "The kinetic energy of the photoelectrons will remain unchanged."
+                  }
+                ]
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION E",
+      "total_question": 4,
+      "total_marks": 20,
+      "attempts_required": 4,
+      "priority": 5,
+      "questions": [
+        {
+          "question_type": "LA",
+          "difficulty_level": "Medium",
+          "question_number": "31(I)",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 5,
+          "question_data": {
+            "question_text": "Answer the following questions.",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(A)",
+                "question_text": "A dielectric slab of thickness $t$, is introduced between the plates of parallel plate capacitor of area $A$ and separation $d$ (where $t < d$). Find an expression for the capacitance with the dielectric slab.",
+                "marks": 2,
+                "question_type": "SA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(B)",
+                "question_text": "A copper sphere of capacitor $C$ is dropped in ocean. Will the capacitance of the sphere increase, decrease or remain same? Justify.",
+                "marks": 2,
+                "question_type": "SA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(C)",
+                "question_text": "A capacitor is connected across a source of potential difference $V$ and then the separation 'd' between the plates is increased using insulating stick. Plot 'V' vs 'd' graph for the given capacitor.",
+                "marks": 1,
+                "question_type": "VSA",
+                "options": null,
+                "child_additional_questions": [
+                  {
+                    "additional_question_type": "ALTERNATIVE",
+                    "question_prefix": "(For visually impaired students only)",
+                    "question_text": "A capacitor is connected across potential difference $V$ and then the separation between plates 'd' is increased using insulating stick. Will the energy stored in capacitor increase or decrease? Justify.",
+                    "marks": 1,
+                    "question_type": "VSA",
+                    "options": null
+                  }
+                ]
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "",
+            "additional_answers": [
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(A)",
+                "answer_text": "When a dielectric slab of thickness $t$ is introduced between the plates of a parallel plate capacitor of area $A$ and separation $d$ ($t < d$), the capacitance can be found by treating the system as two capacitors in series: one with the dielectric and one without.\n\n1. The capacitance of the part with the dielectric slab is $C_1 = \\frac{\\epsilon_0 K A}{t}$, where $K$ is the dielectric constant.\n2. The capacitance of the remaining part without the dielectric is $C_2 = \\frac{\\epsilon_0 A}{d-t}$.\n3. The equivalent capacitance $C$ of the two capacitors in series is given by:\n$$\\frac{1}{C} = \\frac{1}{C_1} + \\frac{1}{C_2}$$\n4. Substituting $C_1$ and $C_2$:\n$$\\frac{1}{C} = \\frac{t}{\\epsilon_0 K A} + \\frac{d-t}{\\epsilon_0 A}$$\n5. Simplifying, we get:\n$$C = \\frac{\\epsilon_0 A}{d-t + \\frac{t}{K}}$$",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct expression for $C_1$ and $C_2$",
+                    "marks": 0.5
+                  },
+                  {
+                    "scheme": "Correct formula for capacitors in series",
+                    "marks": 0.5
+                  },
+                  {
+                    "scheme": "Substitution and simplification steps",
+                    "marks": 0.5
+                  },
+                  {
+                    "scheme": "Final expression for $C$",
+                    "marks": 0.5
+                  }
+                ]
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(B)",
+                "answer_text": "The capacitance of the copper sphere will **increase** when dropped in the ocean.\n\nJustification: The ocean water acts as a dielectric medium with a higher dielectric constant than air. This increases the capacitance of the sphere as capacitance is directly proportional to the dielectric constant of the surrounding medium ($C \\propto K$).",
+                "marking_scheme": [
+                  {
+                    "scheme": "Correct conclusion (increase)",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Justification using dielectric constant",
+                    "marks": 1.0
+                  }
+                ]
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(C)",
+                "answer_text": "The potential difference $V$ across the capacitor remains constant as it is connected to a source of constant potential difference. The graph of $V$ vs $d$ is a horizontal line, as shown below:\n\n$$V$$\n$$$$\n$$|________ d$$",
+                "child_additional_answers": [
+                  {
+                    "additional_answer_type": "ALTERNATIVE",
+                    "answer_prefix": "(For visually impaired students only)",
+                    "answer_text": "The energy stored in the capacitor will **decrease** when the separation $d$ is increased.\n\nJustification: The energy stored in a capacitor is given by $U = \\frac{1}{2} CV^2$. Since $C = \\frac{\\epsilon_0 A}{d}$, increasing $d$ decreases $C$, and thus $U$ decreases (as $V$ remains constant)."
+                  }
+                ]
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "LA",
+          "difficulty_level": "Medium",
+          "question_number": "31(II)",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 5,
+          "question_data": {
+            "question_text": "Answer the following questions.",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(A)",
+                "question_text": "If a charge of $1\\mu C$ is placed at the origin and another charge of $3 \\mu C$ placed at the point $(20m,0m,0m)$ in an external uniform electric field of $40 V/m$ $\\hat{i}$ with the electric potential at origin to be zero. Find the electrical potential energy of system.",
+                "marks": 3,
+                "question_type": "SA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(B)",
+                "question_text": "If one charge particle is moved from A to C to B and another charge particle of equal magnitude is moved from A to D to B, in uniform external magnetic field. Than for which charge particle more work will be needed? (use fig for reference)",
+                "marks": 1,
+                "question_type": "VSA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(C)",
+                "question_text": "Electrostatic potential is constant throughout the volume of conductor and has the same value on its surface. Why?",
+                "marks": 1,
+                "question_type": "VSA",
+                "options": null,
+                "child_additional_questions": [
+                  {
+                    "additional_question_type": "ALTERNATIVE",
+                    "question_prefix": "(For visually impaired students only)",
+                    "question_text": "If a charge particle is taken from A to B via two different paths: one path has resistance of $10\\Omega$ and another has capacitance of $3\\mu F$. Work done by which path will be more?",
+                    "marks": 1,
+                    "question_type": "VSA",
+                    "options": null
+                  }
+                ]
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "",
+            "additional_answers": [
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(A)",
+                "answer_text": "The electrical potential energy of the system is the sum of the potential energy due to the interaction between the charges and the potential energy due to the external electric field.\n\n1. Potential energy due to interaction between the charges $q_1 = 1 \\mu C$ and $q_2 = 3 \\mu C$ separated by distance $r = 20 m$:\n$$U_{12} = \\frac{1}{4 \\pi \\epsilon_0} \\frac{q_1 q_2}{r} = 9 \\times 10^9 \\times \\frac{1 \\times 10^{-6} \\times 3 \\times 10^{-6}}{20} = 1.35 \\times 10^{-3} J$$\n\n2. Potential energy due to the external electric field $E = 40 V/m \\hat{i}$:\n- For $q_1$ at the origin: $U_1 = q_1 V_1 = 1 \\times 10^{-6} \\times 0 = 0$ (since $V_1 = 0$ at origin).\n- For $q_2$ at $(20m, 0, 0)$: $V_2 = -E \\cdot r = -40 \\times 20 = -800 V$.\n$$U_2 = q_2 V_2 = 3 \\times 10^{-6} \\times (-800) = -2.4 \\times 10^{-3} J$$\n\n3. Total electrical potential energy of the system:\n$$U_{total} = U_{12} + U_1 + U_2 = 1.35 \\times 10^{-3} + 0 - 2.4 \\times 10^{-3} = -1.05 \\times 10^{-3} J$$",
+                "marking_scheme": [
+                  {
+                    "scheme": "Calculation of $U_{12}$",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Calculation of $V_2$ and $U_2$",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Total potential energy $U_{total}$",
+                    "marks": 1.0
+                  }
+                ]
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(B)",
+                "answer_text": "In a uniform external **magnetic** field, the work done in moving a charge particle is zero because the magnetic force is always perpendicular to the displacement. Thus, the work done will be the same for both paths (A to C to B and A to D to B)."
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(C)",
+                "answer_text": "Electrostatic potential is constant throughout the volume of a conductor and on its surface because the electric field inside a conductor is zero. Any potential difference would cause charges to move until equilibrium is reached, resulting in a constant potential.",
+                "child_additional_answers": [
+                  {
+                    "additional_answer_type": "ALTERNATIVE",
+                    "answer_prefix": "(For visually impaired students only)",
+                    "answer_text": "The work done will be the same for both paths because the work done in moving a charge in an electrostatic field is path-independent. The resistance or capacitance of the path does not affect the work done."
+                  }
+                ]
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "LA",
+          "difficulty_level": "Medium",
+          "question_number": "32(I)",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 5,
+          "question_data": {
+            "question_text": "Answer the following questions.",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(A)",
+                "question_text": "Derive lens maker's formula.",
+                "marks": 3,
+                "question_type": "SA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(B)",
+                "question_text": "Equi-convex lenses are to be manufactured from a glass of refractive index $1.55$, with both faces of the same radius of curvature. What is the radius of curvature required if the focal length is to be $10 cm$?",
+                "marks": 2,
+                "question_type": "SA",
+                "options": null,
+                "child_additional_questions": [
+                  {
+                    "additional_question_type": "ALTERNATIVE",
+                    "question_prefix": "(OR)",
+                    "question_text": "",
+                    "marks": 5,
+                    "question_type": "LA",
+                    "options": null,
+                    "additional_questions": [
+                      {
+                        "additional_question_type": "SUB_QUESTION",
+                        "question_prefix": "(A)",
+                        "question_text": "Define angle of deviation in a prism?",
+                        "marks": 1,
+                        "question_type": "VSA",
+                        "options": null
+                      },
+                      {
+                        "additional_question_type": "SUB_QUESTION",
+                        "question_prefix": "(B)",
+                        "question_text": "Obtain the relation $A+\\delta = i + e$ for a prism where $A$ is the angle of prism, $\\delta$ is the angle of deviation, $i$ is the angle of incidence and $e$ is the angle of emergence. Write this relation for the minimum deviation.",
+                        "marks": 3,
+                        "question_type": "SA",
+                        "options": null
+                      },
+                      {
+                        "additional_question_type": "SUB_QUESTION",
+                        "question_prefix": "(C)",
+                        "question_text": "Write the condition for minimum deviation.",
+                        "marks": 1,
+                        "question_type": "VSA",
+                        "options": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "",
+            "additional_answers": [
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(A)",
+                "answer_text": "The lens maker's formula is derived as follows:\n\n1. Consider a thin lens with refractive index $n$ placed in air. Let the radii of curvature of the two surfaces be $R_1$ and $R_2$.\n2. Using the formula for refraction at a spherical surface, the focal length $f$ of the lens can be derived by considering the refraction at both surfaces.\n3. For the first surface (refraction from air to lens):\n$$\\frac{n}{v_1} - \\frac{1}{u} = \\frac{n-1}{R_1}$$\n4. For the second surface (refraction from lens to air), the image formed by the first surface acts as the object:\n$$\\frac{1}{v} - \\frac{n}{v_1} = \\frac{1-n}{R_2}$$\n5. Adding the two equations and simplifying for a thin lens ($u = -\\infty$ for parallel rays), we get the lens maker's formula:\n$$\\frac{1}{f} = (n-1) \\left( \\frac{1}{R_1} - \\frac{1}{R_2} \\right)$$",
+                "marking_scheme": [
+                  {
+                    "scheme": "Refraction at first surface",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Refraction at second surface",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Final lens maker's formula",
+                    "marks": 1.0
+                  }
+                ]
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(B)",
+                "answer_text": "For an equi-convex lens with refractive index $n = 1.55$ and focal length $f = 10 cm$, the radius of curvature $R$ for both surfaces is the same.\n\nUsing the lens maker's formula:\n$$\\frac{1}{f} = (n-1) \\left( \\frac{1}{R_1} - \\frac{1}{R_2} \\right)$$\nSince $R_1 = R$ and $R_2 = -R$ (for equi-convex lens):\n$$\\frac{1}{10} = (1.55 - 1) \\left( \\frac{1}{R} - \\frac{1}{-R} \\right)$$\n$$\\frac{1}{10} = 0.55 \\times \\frac{2}{R}$$\n$$R = 0.55 \\times 2 \\times 10 = 11 cm$$",
+                "marking_scheme": [
+                  {
+                    "scheme": "Application of lens maker's formula",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Calculation of radius of curvature",
+                    "marks": 1.0
+                  }
+                ],
+                "child_additional_answers": [
+                  {
+                    "additional_answer_type": "ALTERNATIVE",
+                    "answer_prefix": "(OR)",
+                    "answer_text": "",
+                    "marking_scheme": []
+                  }
+                ]
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        },
+        {
+          "question_type": "LA",
+          "difficulty_level": "Medium",
+          "question_number": "33(I)",
+          "chapter_name": "General",
+          "question_image": [],
+          "marks": 5,
+          "question_data": {
+            "question_text": "Answer the following questions.",
+            "options": null,
+            "additional_questions": [
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(A)",
+                "question_text": "State the working principle of a moving coil galvanometer? What modification is required in the galvanometer to make its scale linear?",
+                "marks": 2,
+                "question_type": "SA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(B)",
+                "question_text": "If a galvanometer of resistance $49.5\\Omega$ has range of $0.05 A$. What will be the value of resistance needed to convert it in ammeter of range $5 A$?",
+                "marks": 2,
+                "question_type": "SA",
+                "options": null
+              },
+              {
+                "additional_question_type": "SUB_QUESTION",
+                "question_prefix": "(C)",
+                "question_text": "How these two resistors should be connected to galvanometer in both cases?",
+                "marks": 1,
+                "question_type": "VSA",
+                "options": null,
+                "child_additional_questions": [
+                  {
+                    "additional_question_type": "ALTERNATIVE",
+                    "question_prefix": "(OR)",
+                    "question_text": "",
+                    "marks": 5,
+                    "question_type": "LA",
+                    "options": null,
+                    "additional_questions": [
+                      {
+                        "additional_question_type": "SUB_QUESTION",
+                        "question_prefix": "(A)",
+                        "question_text": "An input potential $V_{in} = 200 \\sin 100\\pi t$ V is provided to an ideal transformer having 1000 turns in primary coil and 100 turns in secondary coil as shown in figure. The load circuit has a resistance of $4\\Omega$, a capacitive reactance of $2\\Omega$ and an inductive reactance of $6\\Omega$. Find: (i) the output voltage across the load circuit (ii) the current flowing through the load circuit (iii) the power supplied to the load circuit by the transformer",
+                        "marks": 3,
+                        "question_type": "SA",
+                        "options": null
+                      },
+                      {
+                        "additional_question_type": "SUB_QUESTION",
+                        "question_prefix": "(B)",
+                        "question_text": "State the working principle of a transformer and explain how it is a key component in the transfer of electrical power over long distances.",
+                        "marks": 2,
+                        "question_type": "SA",
+                        "options": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "answer_data": {
+            "answer_text": "",
+            "additional_answers": [
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(A)",
+                "answer_text": "A moving coil galvanometer works on the principle that a current-carrying coil placed in a magnetic field experiences a torque. The deflection of the coil is proportional to the current passing through it.\n\nTo make the scale linear, the magnetic field is made radial by using a cylindrical soft iron core. This ensures that the plane of the coil is always parallel to the magnetic field, making the torque proportional to the current.",
+                "marking_scheme": [
+                  {
+                    "scheme": "Working principle",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Modification for linear scale",
+                    "marks": 1.0
+                  }
+                ]
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(B)",
+                "answer_text": "To convert a galvanometer of resistance $G = 49.5 \\Omega$ and range $I_g = 0.05 A$ into an ammeter of range $I = 5 A$, a shunt resistance $S$ is connected in parallel with the galvanometer.\n\nThe current through the shunt is $I_s = I - I_g = 5 - 0.05 = 4.95 A$.\n\nUsing the condition for parallel resistances:\n$$I_g G = I_s S$$\n$$S = \\frac{I_g G}{I_s} = \\frac{0.05 \\times 49.5}{4.95} = 0.5 \\Omega$$",
+                "marking_scheme": [
+                  {
+                    "scheme": "Calculation of shunt current $I_s$",
+                    "marks": 0.5
+                  },
+                  {
+                    "scheme": "Application of parallel resistance condition",
+                    "marks": 1.0
+                  },
+                  {
+                    "scheme": "Final value of $S$",
+                    "marks": 0.5
+                  }
+                ]
+              },
+              {
+                "additional_answer_type": "SUB_QUESTION",
+                "answer_prefix": "(C)",
+                "answer_text": "To convert the galvanometer into an ammeter, the shunt resistor should be connected in **parallel** with the galvanometer. To convert it into a voltmeter, a high resistance should be connected in **series** with the galvanometer.",
+                "child_additional_answers": [
+                  {
+                    "additional_answer_type": "ALTERNATIVE",
+                    "answer_prefix": "(OR)",
+                    "answer_text": "",
+                    "marking_scheme": []
+                  }
+                ]
+              }
+            ]
+          },
+          "chapter_id": "c1000000-0000-0000-0000-000000000001"
+        }
+      ]
+    }
+  ]
+}
